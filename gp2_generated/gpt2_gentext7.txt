@@ -1,0 +1,293 @@
+
+the two words in the sentence, “The saw and
+the cat are good friends”, are both highly
+valuable. However, the fact that the sentence
+requires the speaker to make use of the
+words “saw” and “cat” is not.
+
+The above example illustrates a general
+problem with speaker–listener
+relationship. Suppose the speaker says
+to the listener, “Look, here is your
+salad”, and the listener asks, “What
+salad?” The first thing the speaker has to
+say is, “What salad?” However, the second
+word in the sentence, “What salad?”, is
+very highly valued by the listener. The
+listener may initially think the salad is
+very trivial, but may become convinced
+that the salad is important.
+
+Evaluation
+There is much support for the speaker–listener
+model. Listeners expect that speakers and
+listeners will make use of the two words they
+ask for, and they are disappointed if the
+listeners do not. The model explains
+many of the typical findings in which
+listeners interpret what the speakers say,
+and listeners become desensitized
+to the use of the two words they do not
+ask for.
+What are the limitations of the speaker–
+listener model? First, it is not entirely correct
+to regard the two words the listener
+asks for as irrelevant. For example,
+if the listener “paused” while the speaker
+said, “Look, here is your salad”, then
+you would not know that the speaker had
+resorted to “salad”. You would know
+that the speaker had used the two words he
+asked for, but would not know that the
+listener had used them.
+Second, the model is not designed
+to predict what listeners will think of
+other people. For example, Glucksberg
+and Tversky (e.g., 1995) assumed that
+listeners’ evaluations of speakers depend
+on their personal attributes (e.g., their
+personal personalities; their level of
+success in speaking). However, Glucksberg
+and Tversky were mistaken in assuming that
+listeners only evaluate speakers’s personalities
+on the basis
+====================
+on the right-hemisphere
+system. The existence of this effect suggests
+that the right hemisphere plays an important
+role in guiding behaviour.
+
+Evaluation
+There is convincing evidence for the
+dual-task paradigm in several
+different ways. First, there is clear evidence
+for the existence of the right-hemisphere
+anomaly. This is consistent with the notion
+that the right-hemisphere system is
+used for goal-directed attentional
+control and the right hemisphere for stimulus
+selective attention.
+Second, the findings are more consistent with
+dual-task than dual-process theories. As
+we have seen, there is some evidence for
+the existence of the right-hemisphere
+anomaly. However, it is less clear that the
+right-hemisphere system is completely
+separated from the left hemisphere. It is
+likely that there are important interrelationships
+among the various components of the
+right-hemisphere system.
+Third, the findings on dual-task
+performance are more consistent with
+dual-process theory than with single-process
+one. As we have seen, there is plentiful
+evidence that the right-hemisphere system
+is of major importance in goal-directed
+attentional control. However, it is less clear
+that the right-hemisphere system is completely
+separated from the left hemisphere. It is
+likely that there are important interrelationships
+among the various components of the right
+hemisphere system.
+
+Single-process theory
+Einstein and McDaniel (2005) put forward
+a single-process theory, according
+to which attentional processes are controlled
+by the right hemisphere and by the left
+hemisphere (see Figure 3.10). According to
+this theory, there are three attentional
+processes:
+(1) Automaticity: This involves automaticity,
+in which attentional processes are
+fast and automatic.
+(2) Selectivity: This involves selective
+attention, in which attentional processes
+are responsive to only a few selected stimuli.
+(3) Determination: This involves deliberate
+attention, in which attentional processes
+decide what stimuli to pay particular
+attention to.
+According to the theory of Einstein and McDaniel
+(2005), attentional processes are controlled
+by the right hemisphere and by the left
+hemisphere. However, the right-
+====================
+and
+Levin (2007) argued that the
+two kinds of task share certain similarities.
+They agreed that the main differences
+are in the timing of the two tasks. However,
+they disagreed as to whether the two tasks
+involve different processes. Levin and
+Proffitt (1999) argued that the processes
+involved in perceptual priming and
+lexical decision are similar. They compared
+perceptual priming and lexical decision in
+two tasks involving different perceptual
+qualities. Perceptual priming involves early
+decision (pre-planning) followed by later
+decision (after-decision processing)
+; in contrast, lexical decision involves
+middle-of-the-road decision (after-planning
+and then-decision processing).
+What did Levin and Proffitt (1999) find?
+First, they studied perceptual priming using
+two tasks involving different perceptual
+qualities: perceptual priming for a single
+dimension (number of items) and perceptual
+priming for all dimensions (number of
+items or item size). Second, they studied
+perceptual decision using a second task involving
+the same perceptual qualities as the initial
+task. According to them (as expressed in
+their test-retest data), there should be no
+difference between the two tasks in terms
+of perceptual priming:
+"Participants in both tasks performed
+normally on perceptual priming tasks
+regardless of the perceptual modality
+used. Thus, the findings obtained by
+Levin and Proffitt (1999) are applicable
+even with the second task. However,
+they differ in the modalities of perceptual
+priming: perceptual priming is based
+on early decision, whereas lexical
+decision is based on middle-of-the-road
+decision. Thus, there is a difference
+between perceptual priming and lexical
+decision, and between priming for one
+dimension and priming for all dimensions.
+The findings were obtained by using
+two tasks involving different perceptual
+qualities. The findings of Levin and Proffitt
+(1999) are shown in Figure 11.6.
+The perceptual priming task (based on
+deciding whether the stimulus was the same
+as the distractor) was well-specified, and
+the perceptual decision task involved
+deciding whether to give a target stimulus
+another person had
+====================
+the
+same. However, the
+resemblances were no longer there when the
+participants were given the second
+task (see Figure 8.11). This suggests
+that the participants had mistaken
+the first task for the second one.
+
+KEY TERM
+The twin-site
+research is discussed in more detail in
+Chapter 2. Here, we will briefly discuss
+research on single-site sites. A
+single-site is one of the three sites identified
+by Goldsmith and Tsuchiya (1999) and which
+
+KEY TERM
+single-site: a single-family
+house in which two or more people
+are permanently lodged.
+
+8 EVERYDAY MEMORY 321
+is generally considered to be the most important
+finding. It is known as the twin
+site or the triple site. The twin sites
+are used in studies of single-family
+cities. In such studies, the study of
+single-site sites is essentially
+one-site research. However, there is sometimes
+two-site research, and sometimes there is
+three-site research (e.g., Tsuchiya,
+1999; Kawano, Hasebe, & Shibuya,
+Tokyo, Japan, 2002).
+The findings discussed so far do not show
+that the twin sites are of decisive importance.
+Indeed, they are not even conclusive. As Weibe
+(2003, p. 251) pointed out, “The
+findings do not show that twin
+sites are always involved in single
+family studies. They only show that
+single-site studies are more
+confident than twin-site studies when
+the findings are inconsistent.”
+We will shortly consider evidence indicating
+that it is possible to obtain evidence of
+single-site studies by using a “back door”
+into the memory system. However, Weibe
+(2003) argued that it is unnecessary to
+use the twin sites to perform an
+experiment in which the participants
+were not consciously aware of being
+
+watched. Participants were initially given the
+task of remembering letters or words. After
+that, they were given the task of remembering
+pictures. Finally, they were given the
+task of remembering digits.
+What did Weibe et al. (2003) find? First,
+they used a technique known as event-related
+potentials (ERPs
+====================
+or
+
+Figure 11.6 Left is the
+condition in which the participants
+initially read sentences such as
+one above, and right is the condition
+in which they read such sentences.
+From Riddoch et al. (2000).
+
+the sentence structure was similar in both conditions.
+However, the sentence structure in the
+preceding sentence was very different (see
+Figure 11.6). The participants in the
+preceding sentence were much more likely
+
+KEY TERM
+Riddoch et al.: this is a
+brain-imaging study in which
+participants initially read sentences such
+as “The horse raced past the
+barn fell”, and so on.
+
+to attend to the sentence structure (i.e., “The
+horse raced past the barn fell”). This
+happened because the sentence structure was
+more relevant to the sentence processing
+process. The sentence processing task (e.g.,
+repeating back the first sentence) was
+too easy compared to the following
+task (repeating back the second sentence) (Riddoch
+et al., 2000).
+
+Evaluation
+The research discussed so far has shown
+that readers and listeners often differ
+in their sentence processing performance. However,
+the similarities stop there. As Riddoch et al.
+(2000, p. 10) pointed out, “We are beginning
+to see that the same processes
+are used in reading and listening to speech.”
+Much more remains to be discovered about
+the ways in which readers and listeners identify
+and remember the structure of sentences. For
+example, Riddoch et al. (2000) focused on
+the main similarities and differences between
+sentences such as “The horse raced past
+the barn fell” and “The horse raced past
+the barn fell”. What are the similarities
+between these sentences? The most obvious
+answer is that the two sentences are constructed
+from the same basic structure. However,
+there is a more likely explanation. According
+to that answer, readers and listeners should
+process the two sentences constructively,
+with listeners being guided more by the
+structural information of the two sentences
+than by the informational information of
+the single sentence. That answer has been
+supported many times.
+Riddoch, Rensink, and Petersson
+====================

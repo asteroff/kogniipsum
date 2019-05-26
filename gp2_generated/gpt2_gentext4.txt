@@ -1,0 +1,91 @@
+
+The three-route framework
+According to the three-route framework, there are three routes to knowledge:
+(1) The declarative route: this is the route taken when
+thinking clearly.
+(2) The non-declarative route: this
+route is used when forming
+doctored hypotheses.
+(3) The non-declarative route: this route
+involves forming mental models to
+evaluate conclusions.
+
+Evidence
+Suppose we consider evidence from cognitive
+psychology. According to the three-route
+framework, there should be three routes to
+knowledge (e.g., (1) through (2) and (3)
+through (1)). However, evidence from
+cognitive psychology indicates that there
+are only two routes to knowledge (e.g., (2)
+and (3)). The conclusion that there is only
+one route to knowledge is untenable
+unless there is a third route that replaces
+the two routes that we have just considered.
+The conclusion that there is only
+one route to knowledge is a reasonable
+one, provided that all the routes are valid.
+
+Evidence
+Suppose we consider evidence from brain
+damaged patients. According to the three-route
+framework, there should be three routes to
+knowledge (e.g., (1) through (2) and (3)
+through (1)), but this conclusion is untenable
+unless all the routes are invalid.
+
+Evaluation
+As we have seen, there is plentiful support for
+the distinction between declarative or explicit
+and non-declarative routes to knowledge.
+However, there is increasing evidence that there
+are several routes to knowledge that are
+more complicated than assumed within the
+three-route framework. As a result, we need
+more detailed and alternative theoretical accounts
+describing each route.
+
+Knowledge – non-knowledge
+
+Declarative
+
+Non-declarative
+
+Informal
+
+Figure 10.14 Route 1 (red) and Route 3 (green)
+combined in the fMRI study by Smith
+(2001).
+
+Knowledge depends on knowledge of the world in
+terms of knowledge of the individual members of the
+order. Smith (2001) distinguished between
+knowledge-based routes (routes 1 and 2) and
+knowledge-non-knowledge routes (routes 3 and 4).
+Knowledge-based routes are routes that do not
+depend on knowledge of the individual members of the
+order. Knowledge-based routes are generally
+short and non-declarative (e.g., “I have a
+Q”). Knowledge-non-knowledge routes are
+more flexible and encompass more types
+of knowledge (e.g., knowledge of medicine;
+knowledge of physics).
+Smith and Kosslyn (2001) distinguished between
+two types of route between knowledge and non-knowledge:
+(1) Knowledge-based routes: these routes involve
+limited or no need for formal knowledge;
+knowledge is used as the sole resource.
+
+(2) Knowledge-non-knowledge routes: these routes
+are used in the real world but do not
+depend on formal knowledge; expertise is
+not needed for the purpose of obtaining
+generalisations (e.g., “knowledge is needed
+to make sense of the world”).
+According to Smith and Kosslyn’s (2001)
+theory, there are three routes from
+knowledge to non-knowledge:
+(1) Knowledge-based routes: these routes
+are used in the real world but do not
+depend on formal knowledge; there is
+no learning or other process that would

@@ -1,0 +1,284 @@
+What are the limitations of research on
+autobiographical memory? First, there has been
+far too much research on autobiographical memory
+by focusing on patients who have very
+immediate Parkinson’s disease (see Chapter 6).
+Second, there are only a limited number of
+visual-object-memory disorders, which may
+lead us to underestimate the quality of their
+memory. For example, many patients with
+parathyroidism have essentially intact visual
+habits but impaired spatial memory (see Chapter
+7). However, some patients with agrammatism
+(which involves impaired visual imagery) have
+impaired visual imagery, and such patients
+may well possess memory problems that
+extracts from the visual imagery of those
+with intact visual imagery.
+Third, the precise information stored in
+occipital cortex is important in visual
+imagery. It may well depend in part on
+the retrieval of information from long-term
+memory. However, we need to be careful not
+to speculate too deeply about the contents of
+that stored information.
+
+VISION AND VISUAL
+MEMORY
+In this section, we focus mainly on perception
+and visual perception, with additional topics
+in perceptual organisation and control (ciopancreatics).
+There are about ten different ways in which
+perceptual or functional information is
+held in vision and visual perception. There
+are:
+(1) Close visual attention; this is controlled processing
+within the eye.
+(2) Subliminal perception; in which
+the individual focuses on the physical and
+psychological features of the individual to
+specify a goal.
+(3) Visual search; in which the ability to
+detect a target stimulus is compared
+against his/her perceptual estimate.
+(4) Visual buffer; in which information from
+the visual field is held in relative isolation
+(see Chapter 6).
+(5) Compacting or blending; in which
+two or more cues are combined to produce
+a single cue.
+(6) Energisation; in which the individual performs
+
+at the goal of utilising his/her limited resources.
+
+KEY TERMS
+perceptual segregation: perceptual
+assumptions are made at the level of the visual
+cortex, with many cues and so-called perceptual
+
+modality-specific information being contained in
+the visual information stream.
+====================
+Evaluation
+
+many problems with traditional memory research are at least as serious as the original
+distortions of memory found in everyday life. The
+original distortions of memory were very
+involuntary, and are often forgotten over a
+generation. The discovery that many
+different kinds of long-term memory failures also
+involve voluntary stimulation of the pups’
+boxes by endogenous cues has clarified the issue of whether those
+gives to failures of long-term memory are due to involuntary or involuntary
+stimuli, and has alerted researchers to the
+prosperity of studying long-term memory.
+What are the limitations of research
+on human long-term memory? First, it is not
+easy to study human memory with the same
+hand posture and to observe performance
+on various memory tasks in the same
+hand grip. Second, there are important
+differences among human species in some
+ways related to our memory capacities.
+For example, we are more likely to use salient
+changes as memory than other forms of long-term memory, including visual search, in which
+the most important salient changes are in the
+present and future. Indeed, several neuroimaging
+techniques indicate that our attentional
+system is heavily involved in the performance of
+many kinds of long-term memory. Third,
+memory research is at its best when the
+challenges of replicating and applying findings
+to address several issues are present.
+
+COGNITIVE
+NEUROPSYCHOLOGY
+Cognitive neuropsychology is all about
+cognitive psychology of cognition (see Chapter
+2). In this chapter, you will read about
+several theories, some of which have been put
+forward in the scientific and philosophical
+movements over the past 30 years or so. Which
+of these theories is the most influential?
+Do cognitive neuropsychological theories
+provide adequate accounts of our knowledge
+of human cognition or are they rather
+limited only to cognitively important knowledge?
+It is important to establish very clear
+points about the nature of the source of information
+and of processing. It is also important to
+decide whether cognitive neuropsychology
+has much in common with cognitive psychology
+or cognitive neuroscience.
+What are the limitations of cognitive
+neuropsychology? First, its applicability to everyday
+life is not very clear-cut. What is most
+possible with cognitive
+====================
+
+The study of brain-damaged patients
+has produced several important findings.
+First, there is the strongly held view that
+the ventral prefrontal cortex is the crucial
+brain area.2, 3, 4, 5, this is reflected in
+numerous functional neuroimaging studies, including
+one on amnesic patients (see later in the
+chapter). This finding suggests it is important
+to track brain damage in such patients.
+However, we need to be careful not to exaggerate the importance of the ventral prefrontal cortex
+(e.g., Collette, 1999; Riddoch & Humphreys,
+1998; Riddoch & Humphreys, 2003).
+Second, there is the issue of whether developing amnesia as a result of damage to the dorsal prefrontal cortex
+
+or the anterior cingulate during the earlier stages
+of an amnesia sentence is
+
+accurate. Patel and Ravi (2004)
+found that amnesic patients’ ability to
+remember ambiguous sentences was
+greater when they were in theterior cingulate cortex rather than the posterior
+cingulate. However, this finding is less so for
+amnesic patients with very limited semantic
+knowledge.
+Third, the ventral prefrontal cortex may
+be of most importance in remembering
+to carry out an amnesic episode. Mahavlich
+and Lennie (1999) studied patients with
+various anxiety disorders who had had episodes
+of severe anxiety. The patients were presented
+with ambiguous sentences, each with their
+actual meaning within the sentence. The task
+was to decide whether the ambiguous sentence
+represented the “founder of the universe”.
+Of most importance, these patients performed
+worst when the sentence context was
+overly broad.
+
+Evaluation
+There is convincing evidence that prefrontal
+cortex plays an important role in the episodic
+encoding of episodic memory. Various brainimaging techniques have been used to study the neural correlates of
+episodic memory, and several neuroimaging studies provide
+additional support for our expectations about
+the importance of prefrontal cortex in
+amnesia.
+What are the limitations of research on
+episodic memory? First, the tasks and conditions
+used to study amnesia generally or mirror
+amnesia generally do not permit us to draw any firm
+inferences about the precise brain areas
+associated with each memory cue. Second
+====================
+theoretical approach is based on assuming that
+there are several different mechanisms by which
+information reaches the prefrontal cortex.
+One mechanism involves semantic information being processed in the
+prefrontal cortex. Another mechanism involves
+non-declarative memory (discussed more fully in
+detail shortly). Finally, another mechanism
+(probably of major importance) is based on the
+assumption that readers decide which of two
+stimuli to recall. These mechanisms may differ
+from each other, and we need to address
+these issues.
+
+Declarative memory
+Bower and Biss (1981) argued that we
+should distinguish between genuine rehearsal
+and genuine learning. This is genuine learning
+involving the opportunity cost of injury.
+It is less impressive to study rehearsal as
+a function of whether the two stimuli are
+together referred to or referred to solely
+by name. If rehearsal involves the former,
+we might expect to find patients with
+impaired declarative memory but intact
+intellectual ability (see Chapter 7). Such a
+patients would have intact declarative memory
+but impaired non-declarative memory, which
+conflicts with the theory.
+Lee, Keo, and Svec (1995) studied a
+patient with a severely impaired declarative
+memory domain (see Glossary). She was
+tested using various declarative and non-declarative vocabulary questions (e.g.,
+“What is ___?”, “Is it a word?”, and “What
+word is ___?”). She was also tested on a
+recognition test in which the words “name”,
+“image”, and “aphasia” were presented.
+The patient’s performance was significantly
+worse for the recognised words than the
+unrecognised words, suggesting she had
+learned them incorrectly.
+What causes her impaired declarative
+memory? According to Lee et al. (1995),
+the direct stimulus effect from which listeners
+
+used declarative memory (the naming of words
+in a sentence) dependant on the patient
+(s). In their study, the naming of words
+in a sentence were determined by the patient’s
+ability to generate declarative memory in
+the absence of the direct stimulus effect.
+What causes declarative and non-
+====================
+by
+the participants’ decision to adopt a
+risky course of action.
+
+Theoretical considerations
+We have seen that the optimal strategy for
+deterring future losses involves making
+successful use of past losses to justify making
+future gains. However, there has been
+more controversy concerning the optimal
+strategy than in all the research discussed
+so far. This issue has been addressed in several
+ways, most importantly by suggesting that failures
+of the optimal strategy depend on two general
+weaknesses:
+(1) The gambler’s allocation of future
+losses does not depend on which strategy
+is used.
+(2) The gambler’s current profit or loss
+is disproportionate to the gambler’s previous
+losses.
+Hegemonic factors
+In the real world, we are often confronted
+by scenarios involving future and past
+losses. These scenarios include one in
+which a gambler’s expected return on a
+successful investment is less than or equal to
+that of a similar-aged adult (see Chapter
+2). The goal is to lose as much as possible
+before the expected profit or loss is taken into
+account. The relevant information in the
+
+context of the scenario is generally relevant to
+the gambler’s decision making.
+In other contexts, similar-aged adults
+make decisions about their own retirement
+money (e.g., IAG; may or may not make
+mistakes).
+The crucial issue here is whether or
+not the effects of anticipated and past
+losses are similar. Forward planning is very
+useful in such circumstances. However, we
+need to be careful about generalising from
+forward-planning strategies to future losses.
+
+Gibson problems
+Gibson (1975) argued that decision makers
+make use of memory to plan and to remember
+future action. The ways in which these plans
+are organised and structured are discussed
+in his theory. There are two key themes that
+emergle the issue of Gibson’s approach:
+(1) The structure of decision making
+making is influenced by past experience and
+consequences of an event.
+(2) The way in which decisions are
+made is influenced by factors such as expectations, knowledge, and future expectations.
+
+Gibson (1975) emphasised the importance of
+(1)
+====================

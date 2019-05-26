@@ -1,0 +1,563 @@
+
+The importance of context in determining forgetting was shown by Teschke et al. (1975). Ten year olds who had memorised
+letters learned a list of words and were then re-
+
+exposed to a second set of words, this time
+in a different order. The children showed no
+memory for the second learning, but showed
+forgetting for the first learning. This finding is
+consistent with the notion that the context
+has a direct influence on forgetting.
+Conscious forgetting is influenced by context
+whether the forgetting takes place at learning
+school or at school. Fery and Clifton (1999)
+asked participants to learn word lists under various
+conditions, and then to write down the
+words alphabetically for unknown lists of words.
+Some lists were artificially simple,
+others were artificially complex, and the
+rule was that the simpler the list the participants
+were presented with, the more words it contained.
+The children showed no conscious forgetting
+of lists simple and uncomplex, and
+only a minority of them showed conscious
+forgetting. Thus, the forgetting observed
+by Clifton and Fery (1999) was largely due
+to context-related factors rather than simply
+the participants’ own lack of conscious awareness.
+
+The forgetting observed by Clifton and Fery
+(1999) depended heavily on context. The order
+in which the words were presented made no difference
+in the forgetting observed by Clifton and Fery
+(1999).
+
+Context effects: forgetting
+(1)
+
+Context can influence forgetting over a wide
+range of forgetting. For example, context
+influences forgetting of initial parafoveal
+memory (the forgetting of previously presented
+target words presented to the side opposite the
+brain damage) (Clifton & Fery, 1999).
+Context effects can also be involved in the
+declaration stage of long-term memory.
+Martone, Butters, Payne, and Sax (1998) presented
+participants with a parafoveal-familiar
+display (see Figure 6.4), and instructed them
+to decide whether the object in the display
+had been presented before. The participants
+could not recollect the object or recall
+the context in which it had been presented.
+This finding suggested that context had
+no effect on forgetting of parafoveal-familiar
+displays. However, participants showed some
+conscious forgetting of parafoveal-familiar
+displays when the context was misapplied.
+This was also predicted by the constraintbased theory.
+According to this theory, contextual cues (which
+can be violent or threatening) are ignored
+when the forgetting task is mild (i.e., deciding
+whether stimulus #1 was presented to the same
+as stimulus #2) or severe (i.e., deciding
+whether stimulus #2 was presented to the
+same side as stimulus #1). The precise information
+(in terms of context) is irrelevant. The
+only important factor is whether the context
+remains the same as the original context. If
+this condition is correct, no additional context is needed to
+permit the forgetting of stimulus #2.
+The finding that there is forgetting even
+when the context is varied by adding
+or removing context has been interpreted
+as evidence that the constraints imposed by
+the forgetting task are too great. After all,
+there is context even when the forgetting
+task is very easy (i.e., deciding whether
+phrase–initial units are added or deleted in
+five minutes) and there is context even
+when the forgetting task is more
+difficult (i.e., deciding whether
+to-be-forgotten words are inserted or
+removed from the memory set).
+The finding that there is forgetting even
+when the forgetting task is very
+difficult (i.e., deciding whether
+to-be-forgotten words are removed
+or substituted) has been interpreted
+as evidence that the constraints imposed by
+the forgetting task are too great.
+
+Evidence
+The main forgetting mechanisms found in
+brain-damaged patients are
+spreading activation (activation of several
+neurons in the same area) and inhibition
+(reduced activity in some areas). For example,
+Sirigu and Aubry (2006) studied
+EPOC, a patient with Alzheimer’s disease. He had
+normal levels of performance on semantic
+and factual memory tasks but impaired
+memory for perceptual tasks. EPOC showed
+the opposite pattern. He had a moderate
+proportion of his semantic memory
+performance intact and a substantial proportion
+of his perceptual performance intact, thus providing
+strong evidence for executive deficit
+hypothesis. Finally, there is LTP, which involves
+the learning of behaviour. The learning of
+====================
+
+to the extent that the two types of
+problem are similar in nature.
+
+KEY TERMS
+problem space: an abstract description of all the
+possible states that can occur in a problem
+situation.
+learning: the process of learning something new
+each time a problem is presented.
+
+474
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+
+Learning
+
+Episodic buffer
+
+The learning operations are applied flexibly
+to any problem. They are used in everyday life
+from time to time to keep us on our toes,
+but what happens when we need to solve a
+current problem? We use the knowledge he/she
+has gained during his/her life. Episodic
+buffer is a component of working memory.
+We can think of the knowledge he/she has
+as a kind of programme or programme-based training
+object, and the problem space as a diagram of
+the knowledge he/she has acquired. We
+can represent the knowledge he/she has
+here by considering the following example:
+from
+diamonds to
+blackhawks, what is the shortest distance
+between the first diamond and the second
+blackhawk?
+
+The knowledge he/she has is that
+the shuttlecraft has a maximum speed of
+160 kilometres an hour and that
+the captain is in command. We can put
+this into practice by training ourselves to
+never take our eyes off the prize.
+
+The knowledge he/she has is that
+the captain is in command.
+
+What happens when we need to solve a
+current problem? We turn to the
+knowledge he/she has to do so.
+
+Evidence
+People often take great care not to commit
+a major faux pas when approaching a problem.
+However, there has been very little research
+designed to test whether performance on
+problems can be directly attributed to changes
+in situational pressure. So far, little support
+for the notion that changing situational pressure
+can influence problem solution has been reported.
+Most of the evidence suggests that performance
+on real problems is strongly biased towards
+attentional control rather than problem
+solving (see review by Shanks & Orchard,
+2006). However, the extent to which this is
+so is unclear. If changing situational pressure has
+a direct impact on problem solving, then performance
+should be lower when individuals are under
+time pressure. That is often not the case.
+It has also been argued that the direct effects
+of changing situational pressure are very
+hard to test empirically. More specifically, it has
+been argued that individuals use the feedback
+and “feedback” mechanisms described above to
+permit them to solve problems. It is unclear
+whether feedback and “feedback” are used
+the same for problem solving.
+Finally, there is the issue of whether the
+impact of feedback on problem solving is
+relatively easy to test. Whether the
+feedback provided by the feedback mechanism
+has an immediate impact on performance
+may be hard to assess.
+
+USAGE
+The psychologist George Miller put forward a very
+influential theoretical approach known as the
+framing effect. According to this approach,
+we typically make use of various relatively
+automatic processes, which he claimed are
+often very similar to ones we use when
+reasonably uncertain judgments are
+made. He used the example of the taxi-cab
+cab – there are instant recognitions
+when a cab is present. However, this seems
+to depend very much on the details of the
+experiment. George Miller (1988, p. 252) claimed
+that most people recognise most objects
+when they see them in the wild, but
+this does not seem to depend on the nature
+of the experimental task. He then went on to argue
+that we use various relatively automatic
+processes when making judgements. These
+automatic processes are very similar to those
+we use when fairly certain conclusions follow
+from premises or conclusions. For example,
+if someone asks you to decide whether a
+concrete proposition is true, you probably use
+the same processes as are used when arriving
+at certain conclusions. However, George Miller
+(1988) argued that we should distinguish between
+EXCERPTS and NON-EXCERPTS. EXCERPTS are
+processed automatically, and so do not require
+conscious awareness. For example, when you
+decide that “The magician is in white robes”,
+you do not have to consciously consider what
+is false; thus, you do not use the self-referential
+process.
+According to the framing effect, people
+often make rapid and/or automatic
+decisions about conclusions. For example,
+if
+====================
+by
+
+The Gestaltists
+The Gestaltists were German psychologists working in the late 19th century. They argued that human cognition is
+characterised by systematic processing and monitoring
+(see Chapter 6). This sounds rather complex, but
+Tversky (1956) described their approach as
+the science of the well-controlled system. He described
+how he and Bull (1956) used to study
+cognitive psychology: “The Gestaltists claimed that
+cognition is essentially a system of automatic
+processes operating below the level of conscious
+awareness.” These automatic processes are
+stored in the frontal lobes, and can be
+used to solve problems. For example, we can use
+heuristics or rules of thumb to solve a
+problem in deductive reasoning.
+Chapter 7 is devoted to the major
+practical applications of the theories of the
+Gestaltists. These theories were developed by the German
+Gestaltists (e.g., Kahneman, 1960), and we will
+consider some of their major contributions.
+We will start by considering the significance of
+the term “automatic processing” in connection with
+Kahneman and Bull (1968). They argued that
+there is a double dissociation between processes
+of automatic processing and those of introspective
+processing. This idea was put forward by
+Kahneman himself (1973, p. 252), and it is
+
+602
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+the basis for the Gestalt laws:
+automatic processes are clean, automatic,
+automatic processes are difficult, and
+difficult processes are special-purpose
+and symbolic processes.
+Kahneman and Bull (1968) argued that
+most people have an implicit memory system
+(implicit memory is defined by the fact that
+we do not consciously consider all the possible
+consequences of decisions). The crucial issue was
+whether automatic processes are conscious
+or unconscious. They argued that automatic
+processes are conscious because they are responsive
+to our conscious experience. In contrast, unconscious
+consciousness is only apparent because we are
+consciously aware of the existence of
+numerous potential consequences of our decisions.
+Kahneman (1973) argued that it is only
+implicit memory that is conscious, automatic,
+and unconscious. More specifically, it is only
+implicit memory that can respond in
+real time to our every move. In other words,
+it is only implicit memory that can
+
+be consciously experienced. Kahneman and
+Bonnefon (1979) gave participants the
+task of deciding whether to place a bet on
+whether they would win £5 or £10
+on the assumption that they would always
+win at least one bet and that the amount
+wasted was 8–9 for the former choice and
+12–13 for the latter choice. According to
+the Gestaltists, automatic processes should
+be responsive to human action and our conscious
+experience, whereas hidden processes should
+be relatively slow and unconscious. As predicted,
+automatic processes were responsive to human
+action and to our conscious experience,
+whereas hidden processes were not. It was
+assumed that automatic processes would be
+very responsive to the task-relevant information
+we had available to us, whereas hidden
+processes were not. Evidence from brain-damaged
+patients supported that prediction. Dehaene,
+Kahneman, and Heeger (2004) obtained
+support for that assumption in studies involving
+the forced-choice test. There were two main
+conditions in which participants had to select
+two cards. The first condition was standard
+conditions in which the two cards were
+selected automatically. The second condition
+was a modified forced-choice test in which
+participants had to select the two cards
+on their own or while performing a second task.
+The basic structure of the task-relevant
+information was the same in the two conditions,
+and so the findings on forced-choice tests
+should be similar regardless of which
+condition participants are used to.
+Dehaene et al. (2004) found that 60% of the
+100 participants used the second task, and 40% used
+the first task. The main difference between
+these two groups was that 40% of the
+active participants used the second task
+compared to only 15% of the inactive
+participants who used the first task. Thus, active
+participants using the second task were
+more likely than inactive ones to use
+the second task.
+In sum, we should not expect automaticity
+to influence our conscious experience
+when we use tasks requiring the use of
+
+60
+40
+30
+20
+10
+0
+
+Figure 6.12 Brain
+====================
+is a complex problem, and it is assumed within the
+model that there are five basic emotions, each of
+which can be described as being happy, sad, angry,
+familiar, or new. The existence of five basic
+emotions does not imply that other emotions are
+motivated by mere coincidence. It is assumed that
+motivational factors not included within the model
+are important in the development of emotion.
+For example, many depressed individuals exhibit
+the classic double dissociative symptom, with
+the major symptom being anhedonia (i.e., impaired
+explicit memory for emotional memories).
+However, many also show the Beck Depression
+Symptom Scale (BDSS), which is a more objective
+measure of depression-related symptoms.
+It is assumed that increased brain activity produced
+by increased neural activity during emotion is what
+leads to enhanced emotional experience.
+
+Evidence
+As predicted by the emotion regulation
+network, emotional experience is influenced
+not only by current mood state but also by
+social context. Vigliocco, Bassotti, and
+Caramazza (2006) found that participants in
+an Emotion Regulation and Appraisal task
+reported more positive emotions than those
+performing the task as is customary
+today.
+It is assumed within the emotion regulation
+network that emotion regulation involves the
+hippocampus (see Figure 15.4), which is
+activated when we experience emotional
+content. The hippocampus has been found
+to be highly activated during the development
+of new emotional experiences, and is thus
+of importance in emotion regulation. The ascending
+sequence of hippocampal neurons is hypothesized
+to be important in emotion regulation, and the
+dorsal stream is anticipated to be involved
+when we experience major emotional events.
+
+Evidence
+The hippocampal formation is depicted in
+Figure 15.4. The hippocampal neurons that are
+activated during the development of emotional
+experiences are shown in red. From Vigliocco et al.
+(2004), Copyright © 2004 American Psychological
+Association. Reproduced with permission.
+
+However, the involvement of the hippocampus in
+emotional experience is not the whole story.
+Kiefer and Brendel (2006) found that
+kindergartens (a kind of kitten) that have just been
+born can be trained to be very emotional.
+They argue that kittens that are emotionally
+trained have become very socialised and
+can be found crying at birth, crying
+while breastfeeding, or simply being very
+emotionally excited. Kiefer and Brendel
+carried out a study in which kittens were
+presented to a cage containing 2.5 different
+objects: a red apple, blue apple, orange
+apple, or banana. The object that had been
+presented to the cage was either a familiar
+object (i.e., dog or cat) or a stranger
+object (i.e., bird, butterfly). The kittens were
+trained to associate the object they had
+just been born with the object that had
+been present in the cage. Kiefer and
+Reisenzein (2007) found that the kittens
+trained to associate objects with
+emotions were as likely to show an association
+with the cat or bird as with the dog
+or cat.
+It is assumed within the Kintsch–Hayes
+model that emotion regulation involves the
+hippocampus, whereas the amygdala is
+involved in emotion regulation in anxiety. The
+evidence does not support that assumption.
+Kiefer and Brendel (2008) found that
+anxiety was stronger in anxious individuals than
+in non-anxious individuals when the
+emotion-regulation task required the use of
+high-level cognitive processes. However, the
+findings were different when the task was
+emotionally neutral or low-emotion.
+Anxious individuals were much more likely
+to show anhedonia (i.e., impaired
+explicit memory for emotional experiences),
+which is predicted by the Kintsch–Hayes model.
+
+Evaluation
+An important part of the package containing
+the cognitive processes thought to be involved in
+emotion regulation is the affect infusion
+model, which places stress on the notion that
+emotion regulation is essentially affect infusion.
+The affect infusion model has also been
+very influential within the cognitive neuroscience
+community, and we will shortly consider some of
+the evidence from this perspective.
+What are the limitations of the affect infusion
+model? First, it focuses explicitly on affect infusion
+rather than on the role of affect in the development
+of emotion. As a result, it is uninformative about the impact of affect on
+cognition (e.g., mood-state on decision making).
+Second, the model implicitly assumes
+====================
+
+The second stage of visual processing involves identifying
+the different shapes (e.g., cylinders, spheres) from
+similar shapes (e.g., squares, triangles). The cones
+are activated when cones are combined
+in a particular way to produce a given shape.
+This is known as shape matching. The
+third and fourth stages combine the inputs
+from the two stages moving from there towards
+the goal. It is assumed that the inputs from the
+
+third and fourth stages are combined to produce
+an object’s shape. There is support for this
+prediction from brain-imaging studies.
+Foster and Cushing (2000) compared patterns
+of activation within the cortex (associated with
+object processing) at different stages of visual
+processing. There were two main findings. First,
+the activation pattern associated with object
+processing was positively correlated with
+the activation pattern associated with shape processing. Second,
+the pattern of activation within the cortex was
+positively correlated with the activation pattern
+associated with shape processing. Thus, the
+assumption that the cortex forms part of
+the visual processing system is generally correct.
+However, it is important to distinguish between
+generalizability and specificity of processing.
+Foster and Cushing (2000) found that object
+processing was relatively easy in part because
+we have general knowledge about the shapes of
+objects and the colours of objects. For example,
+we can identify a ball as a ball if we compare its
+shape to that of a pin, or a triangle if we
+compare its shape to a triangle.
+We can also identify a pin as a ball if we
+compare its shape to a ball, and so on.
+It is generally assumed that such knowledge
+is relatively easy to obtain. However, Meyer and
+Damian (2004) found that it was actually
+hard to obtain generalizability for objects having
+various shapes, for example, a triangle has
+the shape of a pin, and so on.
+Why is symmetry established at all? It is
+assumed that symmetrical objects receive special
+attention during object processing, and so
+
+KEY TERM
+shape-based processing: processing that
+involves use of the principles of proportionality,
+local integration, and spatially separated processing.
+
+4 PERCEPTION, MOTION, AND ACTION 137
+the findings of Foster and Cushing (2000)
+might not generalise to other objects.
+However, the findings were essentially
+the same as when conclusions about symmetry
+and shape were assumed to be deduced automatically.
+In sum, symmetry is a very important
+factor in object recognition. It is established
+by Kepler’s theory, and so we turn to his
+approach.
+Keynes (1957) put forward a multifaceted
+approach resembling Foster and Cushing’s
+approach but going beyond them in identifying
+the main processes involved. He started by
+considering how we move around the
+environment. He argued that our main
+movement is “pace-walking”, which involves
+turning and turning rapidly. This is
+ followed by a brief pause in movement
+to allow us to adjust to the new
+situation. This pause can take the form of
+a bump in the road, a crevice in the road,
+a crevice in the road, or a crevice in the
+road. Whatever the case, the “walk” movement
+produces “stop”, which is a response to the
+particular location on the road or the crevice.
+In sum, the “walk” movement involves a
+series of relatively slow, controlled movements
+that are powered by the notion that we are
+moving along a curved path. These slow, controlled
+movements are not accompanied by rapid
+skull-like movements. It is generally
+assumed that these slow, controlled movements are
+involved in the processing of environment information. In contrast, the “run”
+or “walk” movements produced by the
+integration of limited resources are typically
+not accompanied by rapid, automatic movements.
+It has been assumed that the processing of environment
+information is very similar for “run” and “walk”,
+which is presumably consistent with the assumption
+that they involve very similar processes. However,
+this assumption is contested by Thompson and
+Bayen (2006). They argue that the processing of
+environment information does not occur immediately
+and automatically, as is often assumed. There is additional
+evidence that the processes involved in visual
+processing are somewhat separate from those involved
+in visual perception (see Chapter 2).
+
+Evidence
+We will start by considering the processing of visual
+stimuli by separate eyes. However, it is important
+====================

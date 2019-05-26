@@ -1,0 +1,548 @@
+The main tasks used in the research
+are those involving simple continuous processes
+and those involving serial or probabilistic
+processes. It is of some importance that
+the research is being carried out in the light of
+the gains obtained by consciousness from
+the development of language. Indeed, Kuhn (1957)
+argued that the development of language is of
+central importance to our understanding of human
+cognition. Of particular importance is research
+on visual consciousness, which “involves the whole
+structure of cognitive processing in consciousness”
+(Kuhn, 1959). What is visual consciousness?
+According to Kuhn (1966), what is distinctive
+about visual consciousness is the fact that
+it is “unique in that it is characterised by
+the emergence of conscious experience in a
+completely unexpected and almost reflexive way
+during the course of visual perception.”
+That is exactly what researchers at the
+New Zealand Institute of Technology are doing
+with their brain-imaging research.
+They are using functional magnetic resonance
+imaging (fMRI; see Glossary) to identify the
+brain areas associated with visual consciousness.
+According to Leake, Wig, and Gazzaniga (2007,
+p. 379), this is possible because
+“fMRI [functional magnetic resonance imaging]
+is a technique of unprecedented sensitivity”
+(p. 385).
+The fMRI technique has been very
+popular because it provides information
+in the form of precise, temporal scans
+that can be repeated back out loud
+many times. This makes it very hard to
+interpret the findings. However, Hazeltine,
+Newstead, and Gazzaniga (2002) argued that
+fMRI is “the gold standard of signal
+processing” and because of its temporal resolution is very useful.
+This makes sense because it is based on
+the assumption that signal processing is
+basically a bottom-up process, and that
+top-down processing is not needed.
+The fMRI findings of Kuhn et al. (2000)
+were obtained on the assumption that signal
+processing is sequential, meaning that the
+stimulus that is analysed is fully
+explicit (i.e., there is a preparatory process
+
+KEY TERM
+visual consciousness: the notion that
+every aspect of visual awareness is potentially
+available for processing only by a select
+few individuals.
+
+356
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+at the time of writing). That is not the case
+with many other forms of conscious awareness.
+According to Leake (2004, p. 260),
+“The fMRI [functional magnetic resonance imaging]
+is the gold standard of signal processing . . .
+and that makes it extremely valuable as a
+measure of neural activity at the
+level of the brain and as a marker of
+the presence or absence of a given phenomenon
+(‘phenomena’).”
+It is generally assumed that the processing of
+major events (such as the arrival of an
+appropriate stimulus or object) occurs
+rapidly after the initiation of conscious
+awareness. Evidence that this is not the case was
+reported by Cabeza and St. Jacques (2007,
+p. 288). Participants were initially presented
+with a series of trials, on each trial
+a different object was presented. After that,
+they decided whether the object had
+been presented on all the trials. The
+decision time was very short, indicating that
+there was no pre-cursor to conscious
+awareness.
+Cabeza and St. Jacques (2007) found that
+we only have access to the information needed
+to make a basic functional judgement
+(i.e., detecting a target object) when
+the context is very specific (e.g., is the
+target object red? green? blue?). Cabeza
+and St. Jacques argued that this theoretical
+position emphasises the role of top-down processing
+in our everyday lives. For example, when
+we see a red car coming our way,
+we immediately think of its colour and its
+road-worthiness. Such knowledge can be
+ accessed only via a process of optimisation,
+which involves using all the available
+information (top-down processing).
+
+Evidence
+The maximisation principle says that decision
+makers should choose the best choice when
+the alternatives are unequal. However, the
+form of this maxim is “always” and “unless
+we can show that the decision is incorrect”.
+Decision making is much more complex
+than is often assumed. One reason why
+decision-making tasks are much less understood
+than decision making in traditional laboratory
+studies is
+====================
+
+Key processes in visual perception
+Several processes are involved in determining whether we perceive the world in
+the correct spatial or temporal order. These processes are
+consistent with the notion that perception is
+linked to attention, as suggested by findings that
+stimulus similarity influences what information is
+perceived. For example, Cavaco, Perrone, and Biederman
+(2000) asked observers to judge the spatial
+relationship of a given target with a distractor
+stimulus (e.g., red square). There were significant
+frontal activation when the target was located
+on the same side of the visual field as the
+distractor. However, there was no evidence of
+frontal activation when the target was located
+on a different side of the visual field from the
+distractor. These findings suggest that the
+attentional link is broken, with the spatial
+relationship determined by temporal rather than
+by spatial proximity.
+How can we enhance visual awareness? One
+interesting approach is to track the position of
+individual objects. If we detect a target of
+interest, we can decide whether it is on the
+same side of the visual field as the target object or
+
+has been detected. If the target is on the same
+or different sides of the visual field, we can
+enhance our current understanding of what is
+happening by relating the current target to
+the focal point of our awareness. Thus, for
+example, we can perceive an object as being
+on the same side of the visual field as a
+particular object. Kreiman and Angel (1997) argued
+that we can increase or decrease the amount of
+attention we are currently receiving by
+presenting observers with distractors having the
+same or different spatial coordinates as the
+target object. When observers respond to the
+target object, they are receiving signals
+that the object is on the same side of the
+visual field. These signals provide information
+(astronomical precision) about its spatial
+relationship with the distractor. Observers
+showing the greatest difference in spatial
+relationship between the target and the
+distractor are said to be in a daze. Alternatively,
+stimuli can be presented to the side opposite to
+the daze (e.g., lunchbox opposite to the
+wall). If attention is sustained for some
+time, there may be an increase in spontaneous
+motion (knee-jerk reaction) to the object,
+whereas motion perception is determined by
+faster responding.
+The main problem with the spatial-relationship
+hypothesis is that it is too spatialised.
+However, there is evidence that temporal information
+is very important in motion perception (e.g.,
+Hegdé & Schultz, 2005; Scholte, Néel, &
+2008).
+
+COGNITIVE
+NEUROSCIENCE
+APPROACH
+We have discussed the main processes involved
+in visual perception so far, but what happens when
+we need to make sense of the world around
+us? Vigliocco, Carozzo, Borghese, and Rossetti
+(2001) set out to show how visual perception
+is affected by attention. They argued that
+appraisal – the process of identifying what
+there is to be seen and how to describe it –
+would be affected by any number of
+distractors, each of which can be identified
+by a different way. For example, a predator
+can be on the same side of the
+real world as we are from here to there
+(e.g., work, school, sports), and so we as
+individuals cannot easily identify its
+attention. In contrast, a spider
+can be on the other side of the
+world from here to there (e.g., biology,
+psychology), and so we as individuals
+can easily identify its location. This leads to
+distractors not being able to see us as a
+single, long-wavelength band of light.
+Theoretically, we would expect individuals
+with very limited visual resources to experience
+selective attention to the location of stimuli
+presented to their visual field. This would
+be quite different to the situation we find
+
+KEY TERM
+dissociative identity disorder: a mental disorder
+in which the patient claims to have two ore
+more personalities or minds separate from
+each other.
+
+602
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+when in the real world, we are often inattentive
+to the presence of external stimuli. It seems
+reasonable to assume that most everyday objects
+can be seen to a great extent of the visual
+field, and so we are
+====================
+
+•
+
+Cognitive interview
+According to the dual-process approach (which is increasingly accepted), there are two processing systems with
+in common. First, there is the automatic system, which is
+processed automatically without any
+conscious awareness of its existence. Second, there
+is the forced-choice system, which requires conscious
+awareness to operate. According to the dual-process approach,
+automatic processes are fast and easy to use,
+whereas the forced-choice system is slow and
+tensely controlled. Some of the earliest evidence supporting
+these contrasting theoretical approaches was reported
+by Shiffrin and Schneider (1977). They used
+five conversation problems involving four
+different personalities, three of whom were
+
+identified as male or female. In the crucial condition,
+participants were forced to choose between
+the genders of the three conversation partners. In the
+male-dominated condition, there was a competition between
+the three conversation partners for the
+male participants’ attention. In the female-dominated
+condition, there was a competition between the
+three conversation partners for the female participants’ attention.
+What did Shiffrin and Schneider (1977) find? There
+were two main findings. First, the tasks significantly
+demanded attention were fast and easy to
+use, whereas the slow-and-tense tasks
+did not. Second, the attentional problems
+involved in the automatic system were
+extremely difficult to use under normal
+conditions, but relatively easy to use
+under normal conditions.
+The most obvious explanation for the above findings
+is that the automatic system is fast and
+automatic in nature. This explanation was supported
+by Hughes and Garrison (2004), in a study
+on the naming and identification of words
+(discussed earlier). Name generation was faster
+when there was a competition between the
+speedier automatic system and the slower
+word-based system. However, there was no effect
+of gender or condition on the naming or
+identifying of words.
+Other studies on brain-damaged patients
+have produced findings less consistent with
+the dual-process approach. For example,
+De Bleser (1988) found that brain-damaged
+patients used a lexical decision task (deciding
+whether strings of letters were words)
+much faster than non-damaged controls.
+In sum, the dual-process approach is
+consistent with the notion that processing
+of stimuli of interest to one or more
+cognitive domains occurs mainly or exclusively
+in the lexical system. However, it is less
+consistent with the notion of a feedforward
+synthesis, because there is evidence that processing
+does not go smoothly from the lexical
+system to the semantic system.
+The same issue was addressed by Rodriguez,
+Friedrich, and Bluck (2003) in a study
+on visual word identification. They used a lexical
+decision task (deciding whether letter strings
+were words) and a semantic task (deciding
+whether concepts related words). When the
+tasks were performed at the same time, it was
+very clear that the lexical and semantic
+systems were using the same procedures.
+However, when the tasks were performed
+at different times, there was only partial overlap
+in the processes used by the two systems. Thus,
+the findings of Rodriguez et al. (2003) are
+not conclusive.
+
+More evidence that processing of emotionally
+laden texts is often associated with enhanced
+affective processing was reported by Rodriguez,
+Friedrich, and Bluck (2007). They used
+fMRI while participants
+read a text on adoption from the perspective
+of a romantic partner. There were two main
+findings. First, the cerebral oxygen-level-dependent
+kinetic flow (“ik") signal indicating that
+an immediate processing unit was activated was
+also present. Second, the activation of the
+cortex related to processing of romantic
+partnership was associated with enhanced
+affective processing.
+One of the most dramatic findings (or
+minimally inconsistent findings) was reported
+by Soares, Flevaris, and Papagno (2009). They
+assessed activation of the right inferior
+frontal gyrus (BA9) while participants
+read a text on adoption from the perspective
+of a romantic partner. Updating was significantly
+greater in the second and third stages of
+reading, suggesting that the involvement of the
+romantic system in updating the text
+was extensive.
+Most of the above evidence is consistent with
+the notion that the semantic system is
+involved in accessing (and using) the stored
+memories of individuals. However, there is
+evidence that the semantic system is also
+involved in accessing (and using) stored
+personal meanings. Kreiman and Willingham (
+====================
+
+The most striking feature of the
+dual-task approach is the assumption that
+the processes used by cognitive neuroscientists
+to understand human cognition are fundamentally
+different from those used by cognitive
+neuroscientists. This is significant because
+the processing of large parts of human cognition
+seems to be very closely linked to those of cognitive
+neuroscientists.
+The dual-task approach is also the most
+accessible. It is based on the assumption that
+cognitive tasks used in everyday life can
+be performed in one or two different ways.
+There is reasonable evidence that people use
+multiple modalities when engaged in various
+cognitive activities.
+The approach of Evans (2000) is relevant to
+studies designed to test the dual-task approach
+overlap with the hippocampal buffer
+model. Such studies provide a broad
+across-the-rimmed border between cognitive
+neuroscience and cognitive neuroscience.
+We will consider dual-task performance
+in more detail later.
+
+Evidence
+As we saw earlier, cognitive neuroscientists
+using various tasks have produced findings broadly consistent with the dual-task approach. For example,
+Haxby, N.Y., Pascual-Leone, V., &
+Résumé, 2001 (2001) reported that brain
+damage patients performed reasonably well
+on declarative memory tasks, but not with
+tasks involving non-declarative memory. Buxbaum
+et al. (2003) obtained similar findings on
+deficit memory. However, they did not find
+that brain damage affected performance on
+declarative memory tasks.
+The findings of Evans (2000) and Buxbaum
+et al. (2003) are shown in Figure 8.12.
+The brain areas damaged by brain
+damage are shown in dark blue, and the
+non-declarative memory tasks in light blue.
+Reprinted from Evans (2000), Copyright © 2003,
+with permission from Cognitive Science Publishers.
+
+Implicit learning
+It is often assumed that implicit learning is
+typically implicit (or not really implicit). Lewis,
+2014, pointed out that the notion that implicit
+learning is implicit 'may be too broad a one'. He
+proposed the definition of implicit learning that
+would be applicable to most of the studies
+we will be discussing: “Implicit learning is
+learning that is not explicitly controlled by
+conscious awareness of the learner’s identity,
+knowledge, or goals.” This leads to a problem for
+the dual-task approach, because there should
+be no evidence that implicit learning has
+been achieved when participants are
+required to perform two tasks at the same time.
+The research community has responded to this
+challenge by developing multi-task paradigms.
+We will consider these paradigms in turn.
+Multi-task learning is very useful when
+individuals from different geographical areas
+are required to learn together in the same
+location. For example, Han, McClelland,
+V, & Feffer, (2004) studied the effects of
+inclusion and exclusion in a multi-tasking
+experiment. The main task involved detecting
+target words on a list, and the second
+task involved detecting distractor words
+on a list. Performance was close to
+that on the original task, especially when
+the second task involved detecting the target
+word. However, there was significantly more
+attentional focus on the second task
+(even though both tasks involved
+simple inherence). Multi-task learning has
+also been studied in studies involving
+instructions to learn a language (see
+Chapter 7). When participants are
+required to learn a language, they use
+their entire attentional processing ability to
+try to process all the words presented.
+Single-task learning has also been studied
+in studies on medical expertise. Medical
+experts typically make use of a mixture
+of single- and multiple-task learning, and
+individuals’ learning of a language is typically
+implicit (i.e., does not depend on
+conscious processing). However, some neuroimaging
+research has shown that brain areas
+associated with working memory are
+also activated by tasks that involve single-task
+learning.
+Single-task learning has also been studied
+by researchers using transcranial magnetic
+stimulation (TMS; see Glossary). TMS can
+be used as early as 10 minutes after the onset
+of a new learning episode, and has not
+really started until then. It is generally
+assumed that TMS disrupts the consolidation
+process (which involves linking together
+the information from different learning
+modules) of a previously learned module. This
+implication, that it disrupts consolidation during
+transcranial magnetic
+====================
+by
+
+Introduction
+In order to understand the processes involved in comprehending and remembering story information, we need to consider the nature of the short-term and long-term memory systems, and the processes involved in planning and
+retrieval. There is a traditional distinction between Broca’s and Wernicke’s
+neurons, but it is not very clear-cut. We will use the term “short-term memory”
+to refer to neurons that are responsive to immediate and distant temporal
+information and those that are responsive to longer-term
+information. It is assumed that short-term memory
+is affected by several factors, including task difficulty,
+individual differences in task difficulty, and genetic factors.
+There is reasonable evidence that short-term memory
+is influenced by these factors. However, the precise
+factors determining short-term memory capacity remain unclear.
+
+Long-term memory
+We will be considering the factors determining the length
+of time spent on each task. The typical finding that
+interference effects are greater when short-term
+memory tasks are poorly performed than when
+they are well performed leads many to assume
+that short-term memory tasks are of major
+importance in determining long-term memory
+capacity. This assumption was supported by
+Chiappe and Chiappe (2000), who found that
+short-term memory tasks (e.g., random
+number generation) interfered with
+the ability to inhibit or suppress a given
+category of thought.
+It is generally assumed that interference
+effects are minimal when two tasks
+involve only a small difference in time,
+but can be considerable when two
+tasks are performed at intermediate or close
+to the speed of thought. The reason is that the
+limiting effects of interference on shortterm
+memory tasks are greater when they are
+perceptual rather than behavioural (i.e., visual
+or auditory). This is clear evidence for
+the distinction between perceptual and behavioural
+modules.
+Evidence that the distinction between perceptual
+and behavioural modules is important was
+reported by Triesch, Langdon, and Koehler (2006).
+Participants performed simple tasks (e.g.,
+addition taking) for various time intervals
+after a given stimulus. Then they performed
+a second simple task (e.g., free recall of
+ordinarily used words) for various time
+inconsistent stimuli. Finally, they performed
+a timed test of recognition memory for the
+non-stressed stimuli.
+The key finding was that time spent on each
+complex task was highly correlated with
+the participants’ performance. Thus, the
+tasks most associated with the development
+of short-term memory were very
+tasks indeed, and those least associated with
+the development of short-term memory
+were not very different (see Figure 6.12).
+However, the great majority of the variance in the
+various findings was due to the larger task
+requirements of the second task. This suggests
+that the notion of a perceptual-based
+overall learning model is flawed from the
+outlook point of an evolutionary perspective.
+
+Overall evaluation
+The multi-store approach has made learning
+easier. It is clear that the distinction between
+perceptual and conceptual modules is
+important and deserves wider acceptance.
+However, the same strong bias in favour of
+the perceptual-based approach is also
+found with respect to the notion of
+depictive representations. It seems
+reasonable to assume that all relevant
+information is used in forming intuitive
+decisions about the structure of presented
+stimuli, and that these decisions are then
+executed appropriately. In contrast, the
+selective attention and procedural modules
+of the working memory system are heavily
+implicit. We have focused on the evidence
+that perceptual and procedural learning are closely
+intertwined, and that these two systems often interact
+
+in complex ways. However, we must avoid assuming that
+the information stored in working memory is
+the only important kind of learning. It is very
+likely that there are numerous intermediate
+levels of processing, and it is likely that they are
+often involved in parallel.
+We will shortly consider the main issues
+involved in the HD-R theory. For now,
+focus on the notion that learning via
+the HD-R network is more consistent
+and predictable than previous theories.
+
+Evidence
+
+Many attempts to study the psychology of learning
+have focused on the effects of practice
+on the brain. The strength of this approach lies
+in the assumption that relatively little of the brain
+information used during learning is actually
+in the form of an algorithm. This assumption
+has been supported by several other studies
+(see Chiappe & Chiappe, 2007, for a review).
+For example
+====================

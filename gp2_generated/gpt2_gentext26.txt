@@ -1,0 +1,284 @@
+The study by Smith and Kirby (2001)
+was limited in that the tasks used were
+well-defined, involved simple operators such
+as “if(suffix)”, and did not require any
+knowledge of the language system. In
+addition, the language tasks used in both
+patients were designed to be simple.
+At the most basic level, however, there
+is the “knowledge-lean” model. According
+to this model, it is possible to acquire “relatively
+unlimited” knowledge through practice,
+which involves little or no effort to produce
+scenarios or to provide examples of what
+we know about something. It is also possible
+that the knowledge possessed by learners
+plays some part in the early processes of learning.
+LANGUAGE
+
+A study by Smith and Kirby (2001)
+found that there was a small but significant
+leads to widespread activation of language in language
+processes including those involved in the phonological loop and the visuospatial sketchpad. Language was further developed through practice and
+IQ testing. Overall, the genetic basis
+of language was not discovered, but some
+similar genes were identified in brain-damaged
+patients.
+
+Evaluation
+The model has proved very successful. It is
+predicted that most errors and biases in human
+thinking will be eliminated by the model, and
+humans become more rational and efficient.
+However, cognitive biases are not eliminated until
+much later in the model. The evidence
+supports the prediction. ACT-R has little to say about the structure of human cognitive
+processing other than that it is very informative.
+There are several limitations with the model.
+First, the assumption that humans always
+make as much use of external information than
+we need to because much of the information actually used is provided by others. Second,
+humanly efficient and efficient strategies for processing conflict-resolution information have
+often been found. Problems with that were
+found in studies on the serial reaction time task
+found that individuals low in self-esteem and those high in intelligence failed to use that task
+when instructed to resort to informal reasoning. Third, the assumption that only some external stimulus is used is too inflexible with large numbers of stimuli.
+====================
+The brain
+areas associated with conscious perception
+are activated during conscious perception
+of perceptual information. However, the precise
+brain areas involved in conscious perception
+are not clearly defined. It has been argued
+that the prefrontal cortex is specialised for
+different functions – it would be useful to
+identify such areas. For example, there is
+evidence that patients with damage to
+the prefrontal cortex seem to exhibit great difficulty
+in recognising visual stimuli presented to their
+own visual field (Kosslyn & Baddeley, 2007).
+It is likely that the prefrontal cortex is
+specialised for specific functions, and so such
+deficient performance on tasks involving those
+two kinds of functions would probably be
+characterised by patients with damage to
+the prefrontal cortex.
+
+KEY TERMS
+conscious perception: processing that occurs
+below the level of conscious awareness.
+prefrontal cortex: one of the brain areas damaged in
+this skill, whereby the capacity to recognise
+familiar faces decreases below conscious awareness.
+insight: the experience of suddenly realising
+how to solve a problem.
+
+6 LEARNING , MEMORY, AND FORGETTING 219
+that a solution is needed.
+
+Evidence
+Evidence that prefrontal cortex damage can
+lead to task performance under some conditions
+was reported by Kozna and co-authors. They
+studied a 23-year-old woman who was very
+poor at solving problem after problem. She was
+tested by solving problems under both linear
+and four-dimensional scenes, and found
+it took nearly 50% of her processing
+time to solve each problem. When the same
+similar problems were presented to different
+demands, more prefrontal damage was associated
+with more task performance.
+The prefrontal area is known to be involved
+in executive processing, and it has also been
+studied on children with developmental
+prosopagnosia. There was prefrontal damage
+when the parents had to-go decisions made
+in anger. There was no evidence when those
+goals made no sense when they were accompanied
+by severe anxiety. Thus, the prefrontal
+area may play an important role in dealing with
+anxiety.
+Kosslyn et al. (2007) argued that the
+development of an anxiety disorder involves
+developmental problems with the ability
+to perceive emotional stimuli. Through the
+sonic-span hypothesis, it is assumed that
+childhood
+====================
+of the
+
+eyewitnesses’ description of the
+event. Participants were initially given
+an autograph by Jack Nicholson (the father
+of the famous actor and current president of
+the United States). Jack was present, but
+he said nothing. After that, the eyewitnesses
+provided a description of the car that had
+on the road. After that, they provided a
+test of recognition memory.
+What did the eyewitnesses tell the
+eyewitnesses? Most (but not all) reported
+that they had seen the man in the road
+before. About 50% of the eyewitnesses said
+they had not seen the car before, and the
+main cause of their forgetting was that they
+did not know the car was in the area before
+the accident.
+In sum, poor memory is associated with
+several different kinds of event. However,
+what is most striking is that memory
+is all over the place in an instant, in
+a room before a road, and so some of the
+information about the accident before
+you is still outstanding.
+
+EYEWITNESS TESTIMONY
+Many people remember some of the most
+distressing and heart-wrenching details of
+crimes involving self-injury in the home
+and the workplace. However, we also know
+a great deal about the worst and only
+phenomenal aspects of most everyday life.
+In this section, we focus on the two main
+issues relating to eyewitness memory:
+what is true of our past and our
+future: what is true of our
+past and what is false of our future.
+The origins of the two major issues
+discussed in this section can be seen in Oaksford’s
+contention of Bartlett (1968). One of the key
+issues was whether eyewitness testimony was
+accurate when taken at the time of a crime.
+The answer is a resounding “Yes” to all three
+asked. In addition, there is plentiful evidence
+that eyewitnesses and eyewitness storytellers often
+neglect the information in the memory system
+and embellish the details to fit their
+previous story. Thus, it is no surprise that eyewitness
+memory is often deficient when the crime is
+very old and very diverse and very difficult
+to explain to those unfamiliar with the past.
+The second major issue that many people
+dismantled was the
+====================
+the first sentence.
+The second sentence is relevant to
+our current situation or learning, and
+the third sentence is relevant to a future
+one. Thus, the current situation or learning
+may influence the second sentence, but it is
+not sufficient to do so with the first sentence.
+The prediction is that readers and listeners will
+always vary the informational overlap
+provided by the two sentences, because they
+will use the information provided by the first
+sentence to conform to the informational
+overlap.
+What is of interest is to see whether the
+various informational overlaps between the
+current and future sentences (e.g., the
+first sentence) are less ambiguous. It is more
+difficult to understand the second sentence
+when the first sentence is more ambiguous
+than the second. The key finding is that the
+various interpretations of ambiguous sentences
+are more varied than the one obtained
+under normal conditions. This suggests that
+the processing of ambiguous sentences involves
+more holistic, parallel, or parallel search
+ processes than assumed within the model.
+How similar are the processes assumed within
+WEAVER++ to those assumed within
+ROSE: BASIC PROCESSES model?
+Kaufer et al. (1999) argued that
+WEAVER++ consists of two major
+levels: (1) System 1; and (2)
+Multi-level “processors” that can be
+combined operant conditioning and
+conditioning. There are also dual level
+conduits, with each level producing
+specific outputs depending on the conditions
+under consideration.
+The first stage involves imitation,
+in which a given learned strategy is used
+to achieve desired results. Examples of
+example are the recall task (from which participants learn to memorise a letter
+string) and the naming task (from which
+participants learn to name the string).
+The second stage is learning, in which
+different representations of the same letter or
+string are formed. This is a type of
+mirror learning, and is also known as serial
+learning. In most connectionist models, the
+constructive process (based on the assignment
+of a goal to some representation) and the
+sequent constructive process (based on learning and use of the goal) are the two
+levels of learning.
+In contrast, in WEAVER++, each level
+of representation (e.g., the representation
+of
+====================
+by
+
+Theoretical approaches
+to emotion regulation have various
+strengths and limitations. First, it is clearly an
+interesting approach to explaining some of the
+phenomena associated with and associated with
+emotion. The two most important theoretical
+assumptions are as follows:
+(1) There is a rapid, automatic process
+inhibition or cue-driven processing that selects
+the appropriate stimulus for each cue.
+(2) There is more capacity in early
+visual cortex than in posterior visual cortex
+to plan and control emotional experience.
+Third, the two visual stimuli that are presented to
+each eye are paired stimulus to stimulus (i.e., two
+stimuli being presented at the same time; see Figure 4.5).
+As predicted, early visual cortex is more
+active during planning than during control
+activity, and this is reflected in increased activity
+in early visual cortex. However, control is
+bilateral and stimulus planning is relatively
+slow compared to planning, and so does not
+involve conscious awareness.
+Kintsch and Wann (1982) found that many
+brain-damaged patients had comparable
+brain functioning to that of healthy
+individuals. In addition, healthy individuals
+produced as much information as did
+impaired healthy controls on emotion
+tasks but the two groups did not.
+It is likely that the two groups did
+not engage in conscious awareness of the
+information present in the two stimuli,
+and the only thing that survived to write
+an emotional signal was themselves.
+
+Evaluation
+There are various reasons for accepting
+the involvement of early visual cortex
+in emotion. First, it is obvious that their
+processing system is considerably more
+advanced than that of healthy individuals.
+Second, it has been established that early
+visual cortex is of major importance in visual
+perception. It is also established that the
+perception of objects is more vivid and
+accurate than that of stimuli to be
+perceived. Third, it is established that
+visual imagery can be rich in information
+about the environment and also important
+for understanding the subsequent experience
+of an object. Fourth, it is established that
+perception of an object can be rich and accurate
+indeed than imagery of objects can be
+deeply experiential.
+
+4 PERCEPTION, MOTION, AND ACTION 143
+
+Architecture
+What is
+====================

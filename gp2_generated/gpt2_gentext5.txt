@@ -1,0 +1,96 @@
+or
+
+Figure 9.3 Left is the
+control condition, with all the
+stimuli presented in black; right is the
+
+condition with all the stimuli in white.
+From Riddoch et al. (2006).
+
+black target and white distractor stimuli
+were presented simultaneously. There was
+a learning curve in the learning of which
+target was appropriate and which was not,
+as predicted by the constraint-based theory.
+However, the learning curve did not exist in
+the conditioning condition. The findings of
+Riddoch et al. (2006) are shown in
+Figure 9.3. There was clear evidence
+of the learning curve in the acquisition
+curve. There was also clear evidence
+of the extinction curve in the recognition
+curve. The findings are shown in
+red. From Riddoch et al. (2006).
+
+9/23/10 1:28:29 PM
+
+9 READING AND SPEECH PERCEPTION 337
+of the acquisition curve but not of the
+recognition curve. Thus, the acquisition
+curve does not exist in the sense that target
+is always found.
+
+Evaluation
+The constraint-based theory has proved
+very successful in two important ways.
+First, it explains very clearly the acquisition
+curve. Second, it provides a very
+accurate account of many phenomena
+(e.g., recognising a target as a member
+of the category to which it belongs;
+recognising that there is an important
+distinction between familiar and unfamiliar
+objects).
+What are the limitations of constraintbased
+theory? First, it is not entirely correct
+to regard the acquisition and recognition
+curves as uniquely determined by the
+observer’s perceptual system. Several
+of the processes involved in perceptual
+generalisation (e.g., context-based effects;
+perceptual integration) can be influenced
+by the observer’s actions.
+Second, it may be less correct to
+identify the different components
+of the acquisition and recognition curves as
+separately important than the various
+processes involved in perceptual
+generalisation. There are many
+factors influencing the two acquisition
+curves. However, it is generally
+accepted that the acquisition curve is
+mainly determined by context. Several
+findings are discussed shortly.
+Third, the notion that the acquisition
+curve is determined by the observer’s actions
+is oversimplified. It is likely that there
+are also individual differences in the
+mechanisms of processing different kinds
+of stimulus. For example, there are
+probably more dopamine receptors in
+the prefrontal cortex of human observers
+perceived in stimulus-driven conditions
+than in stimulus-controlled conditions (Lenneberg
+et al., 1994). However, it has proved hard
+to find consistent evidence that the
+acquisition curve is determined by the
+observer’s actions.
+
+Which brain regions are involved in perceptual
+generalisation? According to the theory,
+the medial superior temporal gyrus (especially
+the temporoparietal junction) is of special
+importance. Why is that? The temporoparietal
+junction is involved because it is involved
+in long-term memory and is of importance
+in semantic memory. According to the
+constraint-based approach (e.g., Riddoch et al.,
+2006), all the information needed to perform
+perceptual tasks is stored in the prefrontal cortex.
+However, Riddoch and Culham (1993)
+applied functional neuroimaging to the temporoparietal
+junction and found that there was greater
+activation in the right frontal region when perceptual
+generalisation tasks were being performed
+than when they were not (see Figure 9.3).
+The temporoparietal junction

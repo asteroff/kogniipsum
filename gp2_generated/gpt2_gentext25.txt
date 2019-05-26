@@ -1,0 +1,284 @@
+of the
+appropriate word”.
+
+Evaluation
+The greatest strength of the
+Parsing model is its assumption that spoken
+words are identified initially with a general
+phoneme and a semantic level of meaning.
+The model provides a reasonable
+framework for understanding speech production and its interactions
+and its listeners’ needs. However, it is
+likely to inflame some scepticism about the
+importance of the model if it is correct
+as to speech production.
+What are the model’s limitations?
+First, the assumption that the syntactic structure of a sentence is determined after the phonemic processing
+levels of its participants is too
+strong. For example, in the original version of
+the model, all participants were initially given
+a general word (e.g., “patient”) and a semantic
+word (e.g., “patient”). Some participants received
+a modus tollens (e.g., “hospital”) and others
+received a modus tollens (e.g., “patient”).
+Second, the assumption that participants
+can comprehend and understand all the speech
+ provided by listeners is too
+strong. For example, you would expect
+the same comprehension and comprehension
+results would results be obtained for speech
+production and production. If listeners’ comprehension and production tasks are to be shared with each other, there must
+be a common ground in which listeners increasingly
+move between the two tasks. As a result,
+production and comprehension tend to co-operate
+for common ground.
+Third, the assumption that participants
+always use the same strategies when engaged
+in conversation may not be correct. For example,
+what would happen if some participants tried
+to tell a friend, “I hope you die this
+morning”, but the friend tell the wallpaper what
+he wanted to say? The reply would be, “Yes”
+(Of course! The wallpaper would then be
+yes!), and so the friend would tell the
+wallpaper what he wanted to say. This is known
+as common ground, and is what makes it sound
+threateningly counterintuitive (see Wixted,
+2001, for a review). However, the friend
+tells the wallpaper what he wanted to say is, “Yes”
+or “No”,
+====================
+the visual system.
+
+KEY TERMS
+perceptual segregation: the
+assumption that the processes involved in
+perceptual processing occur before the
+perceptual processes are incorporated into the
+
+visual representation of the presented
+visual information.
+visual organisation: the notion that
+a given visual system (the visual
+organisation) is organised into a visual
+organisation of perceptual features and a
+non-perceptual system (the perceptual
+organisation).
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+
+Perceptual organisation: the
+assumption that the perceptual system that is
+organised into a visual system and a non-perceptual
+system has a form or form factor(s).
+
+Form factors: perceptual processes
+that are involved when we look at a
+visual stimulus and/or think about the
+concepts we are using.
+(2) Perceptual unit or perceptual buffer:
+This is a temporary buffer that can be used
+to store and integrate information from
+any of the various sources of information
+(visual or non-visual).
+(3) Frame buffer: a temporary unit of
+information that can hold and integrate
+information from various objects or
+objects in the visual field.
+How do we deal with perceptual segregation? According to
+Tarr (2008), we use three perceptual
+processes to deal with the potential:
+(1) The representativeness heuristic: start
+with a low threshold, and then increase it
+to reflect the increase in perceived
+identity. For example, increase the
+number of objects in the visual field when
+the scene or people are around it.
+(2) The associativity heuristic: try to
+assign more objects to the top of the hierarchy
+when the hierarchy is relatively small. This
+heuristic has the advantage that it allows us
+to cope with increasing numbers of stimuli
+at the same time without the benefit of associating any particular object or
+task with any of the objects.
+(3) The specificity heuristic: try to give
+us the ability to discriminate out
+similar stimuli in a given visual
+field. For example, we might use the
+
+feature “circle” to describe a woman in a
+females size rather than a females
+size. We would perform this
+====================
+theoretical approach is based on assuming that
+the two processing systems are closely associated, and it is
+assumed that each system operates “spreading”
+activation to the other system. Issues relating
+to dual-process modelling were considered in
+a paper by Glucksberg and Glucksberg (2003),
+and Glassbaum and Bluck (2006) on the relations
+between them. Dual-process models are based on
+the assumption that, “Each process is based on
+a single, single input that the other cannot
+change its response” (p. 454). In contrast,
+multi-process models assume that two processes
+(one for each input input) are involved in
+
+perceptual processing. According to dual-process
+models, “Each process in turn operates
+spreading activation to the other process,
+leading to its own response.” For example,
+Glucksberg and Glucksberg (2003) argued that
+two processing systems can be compared:
+(1) Efficiency: the efficiency with which
+individuals cope with each type of
+problem.
+(2) Determination: how many of those
+in the system are efficient.
+What would we expect to find? The
+efficient system would be one that could permit
+use of only one of two resources, and the
+deterioration of the other would be
+positive or negative. If two problems
+would make use of the efficient system, it
+should generate the necessary numbers of
+successful moves for perceiving the problem
+and so permitting its own response.
+In contrast, if two problemsrequire the
+use of the same one resource, it would
+not require use of both resources, but would
+be efficient in using both resources.
+The two systems are different in several ways
+(see Glucksberg & Glucksberg, 2003, for a review).
+First, the allocation of resources process
+us is more efficient than the allocation of
+oneself. Second, the allocation of one
+resource leads to the allocation of all available
+ones (Giora, 2001). Third, the resource
+being allocated is more general than general
+about which one it is allocated. Thus, for example,
+some resources can be allocated to specific
+groups.
+Individual differences in intelligence have
+limited applicability in everyday life. For example,
+
+70 –75
+60 –40
+====================
+the same
+cue was presented to the same
+participant on both occasions.
+The participants’ performance was better
+when the cue was presented on both occasions
+(see Figure 9.14). This suggests that they had
+organised their retrieval and planning processes
+so as to maximise the efficiency benefit from
+the cue.
+Evidence that there are important differences
+between retrieval and planning was reported
+by Arend, Rafal, and Zeki (2006). Participants
+read and read aloud the names of pairs
+of cities or their suburbs. Each city was
+identified by a hand. The names of the two
+cities were presented on each of four successive
+letters of the alphabet. The tasks were to
+perform the tasks on the first occassion and
+to provide the hand with the details of each letter.
+The hand was then given a list of the city
+codes and responded with the code read aloud
+(responding on the first occassion was more
+efficient than the recall task, but recall was
+more demanding). The two cities were
+collected in the data for the digit recall task,
+but not in the memory test.
+Arend et al. suggested that the allocation of
+data from the first occidental letter to the second
+letter determined which letters were dealt
+with first, and that second language subsequently
+influenced the allocation of letters to
+the second and third letters.
+Hahn, Wallin, and Ress (2006) pointed out
+that it had previously been assumed that
+spreading activation was important in reading
+ability. This assumption was gradually replaced by the assumption that there is a uniform distributed
+connectedness providing coherent visual
+information for all aspects of the reading process.
+We will see shortly that the assumption that
+separate visual streams are used in reading
+ability is also important in visual reading.
+
+Experimental evidence: word recognition
+and recognition memory
+It was relatively unattainable to use the word
+recognition task when the colour text was
+presented to the same blind and visually presented
+
+KEY TERM
+visual word recognition: a task used to
+facilitarly involve the auditory and visual
+processing of auditory and visual words.
+
+9 READING AND SPEECH PERCEPTION 373
+
+Reading
+task
+
+Auditory word recognition
+(recognition memory)
+
+Visual word recognition
+(word recognition)
+
+
+====================
+theoretical approach is based on the assumption that
+individual differences in cognitive ability
+(e.g., IQ) depend on various factors.
+According to this approach, individuals of high
+intelligence, low cognitive ability, and
+working memory capacity should generally
+perform better on abstract problem solving than
+simple arithmetic. Those high in working memory
+capacity should perform as well as their
+higher-level counterparts. Finally, those low
+in working memory capacity should outperform
+those high in working memory capacity on
+higher-level problems.
+What are the limitations of the planning
+task? First, it is not very clear precisely what
+the crucial processes are like with such
+complex problems. It is harder to assess their cognitive
+complexity when some of the same complex
+problems are presented to very different
+problems (e.g., a love story between the authors;
+a study on the psychological processes involved in
+writing a letter). Second, and related to
+the first point, much research is based on the
+notion that people’s cognitive abilities are very
+similar to those of individuals working continuously.
+However, what most of us think of when
+guessing cognitive performance is “the illusion”
+or the illusion of higher cognitive abilities.
+Hegarty, Shah, Piorkowski, and Miyake
+(2001) decided to test this notion in a study
+in which participants engaged in a complex
+sensory task (e.g., deciding whether faces
+were positive or negative). Sensation of the
+faces was manipulated by placing a card
+top on the screen. After that, there was a
+condition in which there was a series of
+hands-off actions (e.g., “Yes, proceed] followed
+by a second handoff (“No, proceed).
+The handoff condition was very similar to
+the first condition, but the second condition
+also required the participants to use attention.
+What did Hegarty et al. (2001) find?
+First, the second condition produced more handoff
+responses than the first one (51% versus 19%,
+respectively). Second, the first condition
+produced more handoffresponses than the
+second one (47% versus 19%). Finally, the
+following conditions produced more handoffresponses than
+the second one (33% versus 13%).
+What do these findings mean
+====================

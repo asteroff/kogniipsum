@@ -1,0 +1,101 @@
+Introduction
+The central focus of this chapter is on the notion that perception and action are closely intertwined. This notion was expressed by Landman, Spekreijse, and Lamme (1998, p. 50), in a broad brush analogy:
+You can see a shark swimming in the bay,
+but you cannot see the shark’s teeth.
+This assumption is crucial to our understanding of swimming
+and our subsequent perception of others. Imagine if you could
+only see the shark for the colour of its fins,
+but you could not see the shark’s teeth. You would be
+confident that the shark was larger, stronger,
+and healthier than you could see
+with your own two eyes. That is not the case. As
+Owen and Beigi (2006, p. 253) pointed
+out, there are many ways in which we can measure
+the size of another person’s figure. For example,
+we can assess the visual identity node (VIN)
+associated with a specific face, or the
+superior colliculus (CS) associated with
+a particular hairstyle. The VIN is
+connected to the person’s facial identity
+(i.e., who they are) by a series of
+integrated features (e.g., name, occupation,
+interests). These features can be highly
+biased towards perceiving a given identity
+more positively than someone else’s. The
+assumption that the VIN is biased towards positive findings has been
+made by several researchers. For example,
+Eyal (1998) found that participants given
+a face recognition task performed much better
+than those given a non-face task.
+
+Evidence
+Eyal and McLaren (2007) carried out a
+further study in which participants received
+verbal descriptions of complex scenes (e.g.,
+a wedding ceremony; a sports stadium) and
+imagined observing those scenes. After that, they
+were presented with a second visual description,
+which was either the original visual description
+or a confederate description. The participants
+ratied out the conflicting information about
+the presence or absence of a given object’s
+face. When the presence or absence of a
+confederate description was predictable,
+participants made reasonable use of their
+knowledge of the faces to identify the correct
+confederate description. When the presence of
+a confederate description was unexpected,
+participants struggled mightily to come up with
+a coherent description of the confederate
+that would be consistent with the observed
+figure. Eyal (1997, p. 384) described
+this as follows: “A confederate is one
+in whose case the information available
+is consistent with that of the observer.”
+In sum, we should not expect that visual
+object knowledge will be accessed automatically
+when someone is viewing a scene. Nor should
+we expect that conscious visual experience will
+be accessed automatically when someone is
+thinking about a particular object. These expectations
+were expressed by Kosslyn (e.g., 1992) in his
+conceptualisation–integration theory. According
+to Kosslyn, there are three stages in conceptualising
+a visual object:
+(1) Identical or closely related parts of the
+visual object are presented.
+(2) The same object is associated with
+some detail or features (e.g., form, colour,
+motion).
+(3) The same object is associated with
+context (e.g., what is the object
+about to be viewed?)
+According to Kosslyn, the processes involved
+in generating conceptual images differ from
+those involved in generating perceptual
+images. As a result, Kosslyn (2000) claimed,
+“We generate conceptual images
+not only of the external objects but also of
+the internal states of those objects.”
+It is worth distinguishing between conceptual
+images and perceptual images. According to Kosslyn
+and Pylyshyn (1997, p. 241), “The distinction
+between conceptual and perceptual images
+is between appropriate to the task in hand and
+unacceptable to the task manager.” The
+assumption that the processes involved in
+conceptualising objects differ from those involved
+in perceptual image generation is known as
+PDE (short for perceptual onset generation).
+
+Evidence
+Many attempts have been made to test the
+assumption that object recognition is
+directly influenced by image-based information.
+These attempts have focused on visual
+object similarity, comparing the time taken
+to identify an object based on similarity
+to a target object. However, we must avoid
+complicating matters by considering whether similarity
+is of immediate importance to the task at hand.
+Heller, Grodner

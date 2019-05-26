@@ -1,0 +1,110 @@
+The second
+key finding was that the amount of
+time spent on each stage of the
+interaction depended in part on individual
+differences in working memory capacity.
+For example, individuals with low working memory
+capacity were more likely to engage in costly
+attentional processes during initial stages of
+interaction than those with high working memory
+capacity.
+The third key finding was that the
+amount of time spent on each stage of
+interaction depended in part on individual
+differences in motivation. Individuals with
+low working memory capacity were
+more likely to engage in costly attentional
+processes during initial stages of interaction than
+those with high working memory capacity.
+What are the limitations of research in this
+area? First, we must be cautious about generalising findings from monkeys to humans.
+Second, the involvement of individual differences
+in working memory capacity on the allocation of
+attention is not always clear-cut. Finkenauer,
+Forster, and Bussey (2008) gave participants
+the task of detecting letters. The initial stage of
+interaction was spent on planning which
+of two letters would be detected, and
+the second stage was spent on monitoring
+the computer’s response to the detected
+letters. The key finding was that performance
+was better when the initial stage of interaction
+was spent on planning and the second stage
+was spent on monitoring. However, the findings
+were essentially the same with both
+conditions (see Figure 6.18).
+The most likely explanation for the above
+findings is that participants spent more time
+planning during the initial stages of interaction than they
+really should have. After that, they engaged
+in costly attentional processes, perhaps costing
+them time and effort.
+
+Evaluation
+Research on human action is complex and
+often involves several different kinds of
+tasks. The findings from neuroimaging studies
+are generally consistent with those from behavioural
+studies, and sometimes also neurophysiological
+studies. Neuroimaging studies can provide
+strong evidence that the brain areas responsible
+for our actions are very different from each other.
+In contrast, behavioural studies are typically
+very ambiguous about the precise nature of the
+brain processes involved in our actions. This has
+led to considerable interest in studying
+behavioural processes in brain-damaged patients.
+We have mentioned Damasio’s (2002) theoretical approach
+in this section, and he described it as “the
+original synthesis of computational cognitive science and
+cognitive neuroscience”. As we will see, that synthesis has
+been enormously influential.
+
+KEY TERM
+brain-damaged patients: these are patients
+with damage to the brain, mainly in the
+frontal lobes (including the hippocampus and
+the amygdala).
+
+6 LEARNING, MEMORY, AND FORGETTING 221
+As we saw in Chapter 6, much of the
+research on brain-damaged patients we have
+reviewed so far has involved functional
+neuroimaging. In contrast, research on
+other cognitive tasks generally involves
+functional magnetic resonance imaging (fMRI),
+which is another way of describing the spatial
+temporal resolution of functional magnetic resonance
+imaging.
+In this section, we consider the main types of
+the findings from brain-damaged patients.
+However, we must not underestimate the value of
+functional neuroimaging in psychology. It is
+often very useful to study the effects of brain
+damage on previously unstimulated cognitive
+tasks, as is done by Bartolomeo et al. (2008).
+However, fMRI is not the only way of
+studying cognitive processes. Some neuroimaging
+research has focused on brain activation associated with the attainment of goals.
+Other researchers have used transcranial magnetic stimulation (TMS; see Glossary)
+to produce brief but significant increases in
+activation in various brain areas.
+Finally, there are the findings from braindamaged patients given
+immunosuppression drugs (see Chapter 7).
+These patients often show impaired performance
+on tasks requiring the use of reasoning or
+objective knowledge, and this can be interpreted
+in various ways. It can be taken as
+evidence that the prefrontal cortex is heavily
+involved in problem solving (and so may
+be crucial to successful long-term problem solving).
+However, some functional neuroimaging research
+has focused on brain activation associated with problem solving (especially when these
+problems are complex).
+TMS can provide fairly detailed information
+but is generally not very informative. Rosenberg
+et al. (2006) carried out an fMRI study
+on brain activation when individuals were
+operating in pairs, with one person (the
+stimulus judge) always acting as the dominant
+person. There were two main findings.

@@ -1,0 +1,116 @@
+The second
+key finding was that participants with
+the highest working memory capacity were
+better able to identify target stimuli on
+the serial reaction time task than those with
+the lowest working memory capacity.
+This suggests that attentional processes are important in language comprehension.
+
+Fourth, the findings go against the conventional wisdom that
+decision making is typically automatic and
+accurate. As we will see, that is not the whole story.
+Some deliberate processes are relatively automatic and
+often inaccurate while others are fairly automatic
+and accurate.
+
+THEORIES OF
+LANGUAGE
+COMMUNICATION
+For hundreds of years, philosophers have
+studied the processes involved in understanding
+spoken language. The overarching theme is that of
+communication of meaning, and the processes underlying
+that theme have been the focus of much research
+this century.
+Theorists agree that the main task in understanding
+spoken language is to identify its intended meaning.
+According to them, this is typically a fairly simple
+and unchanging process involving relatively basic
+speech structures and relatively advanced
+speech perception. Theorists differ in the
+nature of their focus, with some theorists
+(e.g., Deutsch & Deutsch, 1963) focusing mainly
+on the latter aspects of the comprehension
+process. Others (e.g., Deutsch &
+Deutsch, 1963) focus mainly on the former
+ aspects of the process. We will start
+considering theories on the connections between
+spoken language and cognition shortly.
+
+Chomskyan approach
+Deutsch and Deutsch (1963) argued that
+composition of spoken language involves a generation
+of meaning from the various stimuli. This is known
+as discourse synthesis, and there are three
+main stages or processes involved:
+(1)
+
+Generating a working hypothesis: this is the
+first stage. This is the most involved
+stage. It is dominated by the working memory
+system (see Chapter 6).
+(2) Determining the content of the hypothesis: the
+second stage. This stage is dominated by the
+working memory system (see Chapter 6).
+(3) Retrieving the support for the hypothesis:
+the third stage. This stage is dominated by the
+working memory system (see Chapter 6).
+What exactly is the relationship between
+the working memory system (see Chapter 6)
+and the subject of the next chapter? It is
+assumed that the working memory system has
+the ability to generate comprehensible discourse
+(coherent and organised information from
+the various stimuli). It is assumed that this
+ability is necessary for understanding the
+spoken language. However, it is also possible
+that the working memory system has no
+control over the generated discourse and so
+can function independently of the
+spoken language.
+
+Evidence
+
+Speech perception differs from the perception of
+texts in that the meanings of words and
+sentences are not stored in memory. The
+most obvious explanation for the differences
+between perception of spoken and written
+language is that the former are more or less
+meaningless. However, we need to be careful about
+generalising from studies on the effects of
+spoken language. For example, Deutsch and
+Deutsch (1963) found that the meaning of
+spoken and written words depended
+on the participants’ comprehension skills. In
+contrast, Deutsch and Marshall (1968) found
+that the meanings of words were determined
+by the comprehension-skills approach.
+However, Deutsch and Marshall’s findings do
+not show that the meanings of words
+were determined solely by the
+working memory approach. More direct
+evidence was reported by Marshall and Deutsch
+(1968). Participants were given the
+task of deciding whether a pronoun matches
+a noun phrase, and they used their working
+memory to try to recall the first word
+referred to in the sentence. This working
+memory process was disrupted when the
+preceding noun phrase was itself preceded by a noun phrase.
+Other participants were given the same
+task but this time the task was to decide
+whether each phrase was preceded by a noun
+or a noun phrase. The processing of these two
+forms of stimulus differed in that the noun
+was pre-specified (e.g., nouns–numbers) or fully
+specified (e.g., nouns–words). All participants
+used this semantic system to make the judgements
+of necessity (i.e., nouns–words).
+Deutsch and Deutsch (1963) obtained further
+evidence of the involvement of the working
+memory system in the comprehension process. They
+asked participants to read sentences such as,
+“The haystack was important because the
+heap was necessary” or “The haystack was
+necessary”. All participants were asked

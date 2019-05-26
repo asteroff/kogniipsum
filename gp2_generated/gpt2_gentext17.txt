@@ -1,0 +1,552 @@
+
+The importance of the role of the eye
+in object recognition has been
+increasingly apparent. According to Petrie
+(2004, p. 180), “The PET [positron emission tomography]
+cannot tell us how good are the
+objects we are looking at or even more
+important, how good are the objects
+we can see reflected back from the
+
+rough edges of the retina.” The same
+conclusion follows from an examination
+of cortical areas showing increased
+activity to objects perceived by the
+observer’s own eyes. Petrie (2004)
+assessed the role of the observer in
+object recognition by using event-related
+potentials (ERPs; see Glossary). The
+key finding was that the amplitude of
+the N400 (a wave originating at the
+same time as the EEG) was greater
+for objects perceived by the observer than
+by other observers. Thus, the observer is
+involved in holistic or configural processing
+of objects.
+
+Evidence
+If holistic or configural processing is
+involved in object recognition, we might expect
+eye movements to have a large effect on
+object processing. This expectation has been
+
+reported experimentally. Eriksson, Roberge, and
+Matthias (2006) used a combination of
+eye-movement and event-related potentials (ERPs;
+see Glossary) to assess the processing of
+faces. There were two stimuli: (1) random
+face; (2) trained object. There was a
+large N400 amplitude for the face-selective
+task, which is contrary to the hypothesis
+of holistic or configural processing.
+Other eye-movement studies have produced
+the opposite prediction. For example, Petrie,
+Fincham, Schriver, and von Cramon (1998)
+had participants look at pictures of pairs of
+individuals engaged in different activities. There
+were two activities associated with intensive
+or task-specific processing:
+(1) Pattern scanning: this involved limited
+attentional processing of the faces.
+(2) Manual activity: this involved
+vague conscious processing of the faces.
+The findings were dramatic. The
+mean accuracy of participants’ performance
+on the face-selective task fell to
+0.33 (SD = 0.60) when there was no
+attentional blink and to 0.23 (SD = 0.60) when
+there was a slow-wave N400. The opposite pattern
+was found for the other tasks (see Figure
+8.8). Event-related potentials (ERPs) were generally higher in the case of explicit task
+processing (i.e., explicit processing without
+blinking) than implicit task processing. However,
+the finding that the amplitude of the N400
+was greater for explicit task processing
+suggests that task-specific processes are important
+in object recognition.
+The above findings imply that topdown processes are important in object recognition.
+However, we must not overstate the importance
+of top-down processes in object recognition.
+Petrie (2004) found that the processes involved
+in object recognition are influenced by
+social context (e.g., the participant’s immediate
+rapid response to the object’s visual stimulus) as well
+as by object-specific knowledge. Thus, top-down
+processes are often involved in object
+recognition even when the context is
+very indirect (i.e., only a few seconds after
+the object has been seen).
+
+EYEWITNESS TESTIMONY
+Most people believe that they have reasonable
+knowledge about historical events. Eyewitness
+testimony is especially useful for establishing
+the accuracy of eyewitness statements. However,
+eyewitness testimony is often unreliable. For
+example, Hazeltine (2000) found that eyewitnesses
+produced false memories of events to support
+their statements about the events afterwards.
+Many of these false memories involved
+observing someone else performing the
+same actions as the eyewitness had
+seen. Thus, eyewitnesses’ statements
+were often unreliable because they were
+instructed to provide evidence by others.
+Eyewitness testimony can be unreliable because
+eyewitnesses sometimes observe someone else
+performing a task they are not competent
+to perform. For example, Hazeltine (2000) found
+that college students observed an
+athletic player, CHRISTOPHER, on a soccer
+match in person while HEATHER played
+COLLEGE. However, the players were not
+supplied with any coaching or instruction about the task, and it was
+not clear that CHRISTOPHER had received any
+specific instructions. The players were then
+told that a friend of theirs had just been
+shot in the leg by a drunk driver. The
+college
+====================
+The second
+stage of the model is to
+consider the effects of cognitive
+processes on visual consciousness. It is assumed that
+conscious awareness can occur in various ways:
+(1) Directed waveletting: this is a rapid,
+automatic process that is undetected by
+conscious awareness.
+(2) Shifted waveletting: this is a slower,
+more deliberate process that is detected
+and responded to by conscious awareness.
+(3) Parallel processing: the processes of all three
+components are combined to produce a
+final product. Parallel processing is assumed to
+be faster than directed waveletting.
+The distributed-plus-hub theory provides
+a reasonable account of many of the findings. It is
+assumed that the central processing system (D/A) is
+more limited in scope than assumed by
+the dual-route model. Galotti (2004) found
+that D/A was limited to the “right” or narrowband
+of visual processing. The precise nature of
+the evidence for this assumption is discussed
+shortly.
+The distributed-plus-hub theory has received
+some support from empirical evidence. De Corte
+(2008) found that D/A was slower than
+Wernicke’s aphasia when participants
+produced word lists of 100 words. However,
+this is unexpected given that word
+finding tasks typically involve large
+numbers of words. Chen et al. (2007) found that
+directed waveletting was equivalent to
+Wernicke’s aphasia when participants
+produced word lists of uncommon words.
+However, D/A was faster than Wernicke’s
+aphasia when participants produced word
+lists of common words and unusual
+words.
+
+576
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+
+Is word finding faster or slower with
+common words than with unusual
+words?
+
+Probably the most controversial assumption of all time,
+and that of the central bottleneck theory. We will consider
+other theories that have considered this issue.
+One of the most influential theories was put
+forward by Collins and Quillian (1969). They
+argued that word finding is typically faster
+when there is common meaning to both
+the item and its context. For example, if you
+know the meaning of a word, you can
+find its meaning easily. Collins and
+Quillian argued that word meaning is accessed
+rapidly, even if the meaning of the item
+cannot be retrieved for some time.
+According to Collins and Quillian,
+the processes involved in word finding
+include semantic and phonological ones.
+Thus, we look for spoken words that are
+semantic (i.e., having a specific meaning)
+and phonological (i.e., the sounds of words
+are spelled out). Collins and Quillian claimed
+that phonological processing can be involved
+as early as the initial stages of word
+recognition. There is some support for
+this assumption. Wig, Grafton, and Kelley (1999)
+asked participants to look for words
+they claimed to have heard before in order
+to identify them. The key finding was
+that the initial stages of word processing
+involved phonological processing of the words.
+In addition, there was evidence that participants’
+semantic processing was involved even
+when the meanings of the words were
+inaccurate.
+The notion that phonological processing is
+involved right from the outset of word
+recognition is an exciting one. One reason
+is that it would be very hard to identify any
+of the items in the absence of phonological
+processing.
+What is the relationship between phonological
+processing and semantic processing? It has been
+very controversial to establish such a
+relation. However, Coch, Grafton, and Kelley
+(1998) argued that phonological processing
+is important in recognising spoken
+words, and so we will focus on that issue.
+Kellogg (2004) considered the role of phonology
+in the processing of spoken words. He found that
+phonology information was relevant in
+identifying spoken words whether the
+words were spoken directly or indirectly. Phonology information was relevant whether the
+words were spoken directly or indirectly via
+syntactic information. Thus, for example,
+“If the individual’s message is audible, then
+he/she is listening to music”.
+The most obvious explanation for the above
+finding is that it involves processing of spoken
+words directly. However, we must not dismiss
+the possibility that the processing of spoken
+words involves some indirect process. Steblay
+(2008) addressed this issue in a study in which
+participants
+====================
+The second
+point is that the notion that
+most people have limited
+processing capacity probably depends
+on several different factors, including task difficulty,
+individual differences in task demands, and genetic
+factors. More convincing evidence supporting
+the notion that there is only a limited amount
+of processing capacity was reported by Laurent,
+Canessa, and Canessa (2006). They argued
+that we possess a limited attentional
+control system operating at the cellular level.
+This system has been found in braindamaged
+individuals having damage to the frontal
+area, and in patients having damage to the
+ventromedial frontal area.
+What is the role of this limited processing
+capacity in everyday life? It is probably
+very limited. As we will see, it is generally
+accepted that most of the processing that is
+required to perform a complex task is
+(a) limited in capacity and (b) uniform
+in nature.
+The limitation with these theoretical approaches
+is that they do not provide a definitive answer
+to the question, “Is there only a limited amount
+of processing of a given object?”. The
+central assumption that there is a single,
+general processing mechanism operating
+mainly for the purpose of identifying all the
+objects that are relevant to a given task is
+not terribly convincing. It is very hard to
+believe that such a mechanism would
+be involved in our everyday lives.
+The third major assumption is that
+most complex tasks require the use of
+more resources than is actually the case.
+For example, suppose you are walking
+towards a stream of water. It is very
+hard to understand the nature of the task,
+and you need to understand the significance of
+the task before moving on. In similar fashion,
+decisions about the meaning of various stimuli
+need to be made in the same way. The resources
+used in understanding the tasks are
+often very limited, and it is not clear
+why this is so.
+The fourth major assumption is that
+complex tasks take longer to perform
+than simple ones. This assumption was supported
+by Eysenck, Landman, and Rensink (1988).
+They argued that the processing of a complex
+task involves two intermediate stages. The
+first stage considers theerentries between
+the current state or situation and the
+next state or situation. The second
+stage considers only theerentries for the
+next state or situation. If the information
+about the next state or situation is insufficient,
+there is a slow search for a ruling pattern
+based on the assumption that all rules are
+relevant to the current state or situation.
+The existence of this assumption means that
+complex tasks can be performed with
+high or low utilization of resources.
+Five factors determining the time taken
+to perform a complex task are listed in
+Figure 5.6. First, there is the task difficulty
+setting, in which the total number of rules
+implemented is compared against the
+total number of pieces or pieces needed to
+perform the task. Second, there is the
+amount of time invested in the piece
+or piece, which is measured in terms of
+the number of moves required to complete
+it. Third, there is the set size, which is
+the maximum number of pieces or pieces
+that can be inserted into the puzzle.
+Fourth, there is the current situation, which
+means that new rules can be applied
+to the puzzle. Fifth, there is the rule set size.
+Sixth, the current situation dictates that
+the pieces must be moved to the back of
+the space indicated by the arrowheads.
+There are generally two strategies in
+the analysis of problem solving.
+(1) Linear planning: this involves
+a simple causal structure being used
+to identify the problem-solving
+strategy. For example, if you start by
+asking yourself, “What colour is this square?”,
+you will have identified the square.
+(2) Semi-automatic thinking: this involves
+simple, automatic processes being used
+to solve problems. For example, Myers
+et al. (1975) used the following problem
+when studying medical research:
+In a study, 1000 people were tested.
+Among the participants there were four
+experts in medical school, two of whom were
+female. One of them was unsatisfied with her
+
+knowledge of medical knowledge, and the other
+
+KEY TERM
+schizophrenia: a condition in which there is
+widespread impairment of the central executive
+and other cognitive processes, but there are various
+symptoms (e.g., impaired planning; impaired
+memory).
+
+5 ATTENTION AND PERFORMANCE 197
+
+Figure 5.6 The
+means–ends model of attention.
+
+====================
+the involvement of the prefrontal cortex in
+problem solving is limited. However,
+there is evidence that the prefrontal cortex
+is more important than the hippocampus or
+early stages of learning to be involved
+in declarative learning.
+
+Evidence
+As you can see in Figure 7.11, the
+frontal lobes have a major role in problem
+solving. The superior temporal gyrus (Turatto
+et al., 2006) is the part of the brain most
+activated during problem solving. Schott, Burgess,
+Maguire, and Gobet (2008) found, in a metaanalysis,
+that the involvement of the prefrontal cortex
+was very similar in habituation and extinction
+versions of the Morris water-jar problem. However, extinction was
+no more effective than habituation in
+deteriorating extinction-stricken individuals.
+The hypothesis that the prefrontal cortex is
+involved in producing goal-directed attention
+has been supported many times. Benedetti, Siéroff,
+Cooper, and Svec (1999) presented participants
+with a stream of four letters and a final
+prompt. At the same time, they had to fixate
+the stream while performing the digits-to-be-
+fixed task. The key finding was that extinction-stricken individuals had increased
+activity in the dorsolateral prefrontal cortex when
+they fixed the stream and had very limited
+activity when it was empty. Thus, the prefrontal cortex
+is involved in producing divergent attention
+and in shifting attention.
+Additional evidence that the prefrontal cortex is
+involved in problem solving was reported
+by Benedetti et al. (1999). They presented
+participants with a stream of four letters and a
+final prompt. On the final trial, they had to
+fixate the stream while performing the digits
+to-be-fixed task. The key finding was that the
+participants shifted attention to the digits
+to-be-fixed condition. This was most apparent when
+the final prompt was presented in the presence
+of strong distracting distracting distracting
+stimulus (e.g., a colleague). The finding that the
+participants shifted attention to the
+digit-to-be-fixed condition suggests that
+the prefrontal cortex is needed for this
+function.
+Final word
+The theory that the prefrontal cortex is
+involved in producing divergent attention and
+shifting of attention has received support
+from several studies. Benedetti, Siéroff,
+Bruno, and Svec (1999) presented participants
+with a stream of four letters and a final
+prompt. At the same time, they had to fixate
+the stream while performing the digits-to-be-fixed
+task. The digits-to-be-fixed task involved
+fixating the stream and shifting one’s
+attentional focus to the task-irrelevant
+presented letter. Participants performed best when
+the distracting letter was eliminated before the
+digit was presented.
+Fincham, Siéroff, and Blanchette (2006)
+carried out a meta-analysis of studies involving
+the distraction-removal task. The removals
+of distracting stimuli were generally stronger
+in extinction than familiarity removals.
+However, the nature of the removals was
+similar to those of the stream. Removals
+in the extinction condition were of a general
+national significance, but those in the familiarity
+condition were of a more local or special
+meaning.
+
+Constraint-based theories
+We can test the involvement of the prefrontal
+cortex in attentional control more directly by
+imposing artificial demands on it. For example, we can
+ask participants to fixate a given target
+while ignoring other tasks. If the target is
+recognised initially as representing a threat,
+it will probably be avoided. Alternatively, we
+can impose a learning-by-feeling effect, with
+the added constraint that participants must
+
+KEY TERM
+constraint-based theories: the notion that
+we use a limited amount of capacity-consuming processing to
+construct a mental model of the situation.
+
+7 LONG-TERM MEMORY SYSTEMS 267
+perceive a threat and attempt to identify
+the source of the threat. We can then use
+that mental model to anticipate when
+the target will be encountered again, and
+to change our mental model to one more
+affirmative of the initial one.
+It was long-term learning that led individuals
+to develop the capacity to identify threats
+when presented visually. The capacity to
+detect threat depends in part on the strength
+of the previous learning, and in part on the
+capacity of the new learning. The most
+famous (or notorious) account of threat
+learning is that of Tedisco, who argued
+====================
+
+The second
+key finding was that the amount of
+attentional focus on the target item was
+influenced by the extent of previous
+attentional focus (see Figure 6.18).
+This finding suggests that top-down
+processes are important in attentional
+control and may help to explain why distraction
+is such a problem in the workplace.
+
+The third
+key finding was that the transfer effects
+were greater when the distractors were
+impaired by a task-relevant ability (e.g.,
+high-familiarity condition) than when they
+were not (low-familiarity condition). This suggests
+that top-down processes are important
+when individuals are confronted by a novel
+stimulus.
+The fourth
+key finding was that the transfer effects
+were greatest when the distractors were
+impaired by a task-relevant ability. This suggests
+that top-down processes are important
+when individuals are confronted by a novel
+stimulus.
+Fitzgibbon (2001) found that top-down processes are important in the detection of
+differences between familiar and unfamiliar
+stimuli. Participants detected a target stimulus
+(e.g., red squirrel) while ignoring a distractor
+stimulus (e.g., red squirrel). The distractor was
+immediately discarded or given a cue (e.g., green
+circle). The participants showed a transfer
+effect when the distractor was discarded
+or given a cue. This finding suggests that topdown processes are important in the
+detection of differences between familiar and
+unfamiliar stimuli.
+
+Stuss and Alexander (2007)
+Stuss and Alexander (2007) focused on the
+stored knowledge effect, in which we mistakenly
+store information about the visual form of objects
+in long-term memory. They argued that
+this effect is most likely to be detected when
+the form of the object is the main focus of
+attention. There are two routes between
+knowledge and action. One is the knowledge
+component of the action–environmental exchange,
+which involves perceived physical features of
+objects in the environment. The other
+route is the action–compactuosic exchange,
+which involves perceiving the intended
+action (e.g., stepping on a red brick). According
+to Stuss and Alexander (2007, p. 347),
+“The distinction is between spatio-temporal
+representations of actions and their spatially
+reflected effects (i.e., actions per se) or concepts
+(i.e., what the action is perceived as
+being)” (p. 349).
+The knowledge component of the
+action–environmental exchange is “what
+the individual perceives as being”. Imagine a
+scissors–mathematic drawing–textbook analogy.
+If we hold the scissors out in front of the
+book, we can easily identify the precise pages
+we need to cut to achieve a given goal. In
+contrast, if we try to use the same scissors
+as before, we will have to use them to
+cut through some rather rough text.
+The knowledge component of the
+action–environmental exchange is “what
+the individual perceives as being”.
+
+Evidence
+What attentional processes are involved in
+the formation of visual representations? One
+important assumption is that the knowledge
+representations formed by visual observers are
+formative rather than general. For example,
+there is a strong belief that observers’
+eyes attend to the location of visual targets
+and to the objects within those targets. Another
+important assumption is that observers attach
+general global significance to visual stimuli
+(e.g., general locations of buildings) rather than
+specific details (e.g., the number of lights
+in a room). All of these assumptions were tested
+by Moscovitch and Chokron (2002). Moscovitch
+and Chokron used the following test
+(see Figure 6.6):
+(1) In the absence of any specific cues, observers decided
+whether the test stimulus was a cat or a
+monkey.
+(2) In the presence of a cue, they were initially
+stunned by the stimulus, but then rapidly
+attended to it.
+(3) In the absence of any specific instructions,
+the monkeys and cats decided whether the
+stimulus was a cat or a monkey.
+What did Moscovitch and Chokron
+find? First, the global significance of visual
+stimuli was all activated by cat and monkey decisions but not by
+cat decisions alone. Second, the specific
+cues used by the monkeys and cats were
+all activated by cat and monkey decisions.
+However, the specific commands (e.g
+====================

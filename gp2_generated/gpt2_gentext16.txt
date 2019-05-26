@@ -1,0 +1,558 @@
+The second problem is that the
+theory doesn’t say that automatic processes are
+involved in conscious awareness. This is
+because we don’t really know how we manage
+to “know” about the world or to “believe”
+that others are aware. Third, there are
+distortions in the theory and in research
+on conscious awareness. For example, it is claimed
+that automatic processes are used in conscious
+awareness, whereas research on unconscious
+consciousness has focused on the role of unconscious
+processes. Fourth, there are various reasons why
+we might be unable to give full conscious
+accounts to our intuitive feelings. One reason
+might be that such feelings are inconvenient or
+distractive to our current goals or to our
+emotional lives. Another reason might be that
+conscious awareness is unattractive or even
+unnecessary for our emotional needs. We
+will consider these issues in turn.
+
+Distractors
+Why are we bothered to experience
+conscious experience? One reason is because it can
+be very distracting to be constantly aware
+that we are moving our eyes around
+the room. More generally, it is annoying
+to be constantly aware that we are moving our
+eyes around the room. Campbell (1974) put
+forward a much more complex account of
+conscious experience. He started by distinguishing
+between two views he termed sensory
+beam theory and perceptual tunneling. We
+can, of course, approach the issue of whether
+conscious experience is distracting from our
+attention-on-the-task with either theory. Alternatively,
+we can distinguish between two views
+on the role of attention in consciousness. One
+of these theories (espoused by So & So)
+involves a bottleneck in the processing system
+combined with a highly adaptive control process
+operating at the principle of nondeterministic
+time. The other theory (so-called because
+so little is known about its functioning and
+because the theory of nondeterministic time
+is relevant to it) involves a bottleneck in the
+cognitive system coupled with a bottleneck
+in the attentional system. There is only one
+way of viewing the world, and that is the
+accurate way. However, there is no neat, tidy,
+dysfunctional distinction between the two
+approaches. Indeed, the notion that we are
+both using the same processes when engaged
+in conscious experience is rather an empirical
+one. We can, of course, study the processes
+involved in deliberately constructed visual
+stimuli, but we must be careful about associating
+these studies with the theories of attention
+theory and sensory beam theory.
+It is often claimed that it would be very
+easy to decide whether our conscious experience is
+unrelated to our everyday experience. In fact,
+however, there is a long tradition of researchers
+studying the effects of different attentional
+processes on human cognition. Here, we will
+consider a few of the main areas of research.
+First, there is cognitive neuroscience, whose
+focus is on the effects of different attentional
+processes on human cognition. Second, there is
+appraisal, which involves the appraisal of the
+context in which an individual is currently
+engaged. Third, there is applied
+functional neuroimaging, which involves
+the study of brain areas associated with
+processing (e.g., attention, perception) rather
+than simply looking at brain areas.
+What are the main limitations of research
+on attention and consciousness? We will
+consider that in turn.
+
+VISUALLY
+AUDITORY PERCEPTION
+From an ecological perspective, the
+structure of visual perception is extremely
+important. The vision that most of us have
+for the environment is constructed to
+support various goals, to make sense of our
+
+own experiences, and to help us to understand
+the external world around us. In short,
+the vision that most of us have for the
+environment is shaped like a
+scissors whose blades are our own visual
+processes and the objects within
+them.
+Where in the brain is information about
+the external world stored? That is a crucial
+issue, because what we perceive of the
+environment is determined by our
+attentional processes. If we cannot access
+visual information about objects within the
+environment, we cannot help but to make
+unfortunate choices about our
+visual experiences. Thus, it is very important
+to understand the significance of visual
+information in our everyday lives.
+As we will see in Chapter 2, the notion
+that the perception of the external
+world is constructed to support our
+own goals is very widespread. It is regarded
+as a fundamental tenet of psychological
+science. In addition, as we will see, it is
+often very
+====================
+
+A
+
+B
+
+C
+
+D
+
+Figure 7.10 Example of a
+spreading activation semantic
+network. From Collins and
+Loftus (1975). Copyright ©
+1975 American Psychological
+Association. Reproduced
+with permission.
+
+Flowers
+
+the notion of logically organised hierarchies
+was too inflexible. They assumed instead that
+semantic memory is organised on the basis
+of semantic relatedness or semantic distance.
+Semantic relatedness can be measured by asking
+people to decide how closely related pairs of
+words are. Alternatively, people can list as many
+members as they can of a particular category.
+Those members produced most often are regarded
+as most closely related to the category.
+
+KEY TERM
+aphasia: impaired language abilities as a result
+of brain damage.
+
+7 LONG-TERM MEMORY SYSTEMS 269
+
+Evidence
+We will start by considering the cognitive neuropsychological findings relating to the development of language.
+Clavel-Paul, Dumoulin, and Gallant (1982) obtained evidence
+for semantic memory in the form of
+subject-by-object comparisons. For example, they
+compared patients with agrammatism (impaired
+language abilities) to those with
+semantic dementia (free of semantic
+memory). Agrammatics had increased
+frequencies of word naming and slower
+word processing, but the pattern of findings was
+similar for both forms of language.
+More evidence that semantic memory
+is organised on the basis of semantic
+relatedness was obtained by Crocker,
+Traxler, and Jakob (1997). They presented
+pictures (e.g., red roses), and participants
+were instructed to click on one of the pictures
+(e.g., the red rose). Some of the pictures were
+not presented at all, whereas others were
+presented very shortly thereafter. The
+rhythmic nature of the click pattern indicated
+the extent to which the picture had been
+presented to participants previously exposed
+to it. For example, 94% of the participants
+clicked on the red rose when it was presented
+0.6 seconds after they had been exposed to
+it, whereas only 36% of the controls clicked
+on the red rose when it was presented
+0.4 seconds after exposure. Thus, the early
+stages of word processing were much more
+likely to be activated by the presence of an
+exposure than by the absence of it.
+Evidence that semantic memory is
+stored in the semantic network was
+reported by Marzi et al. (1997). Participants
+decided which of two letter strings formed
+a word, and the corresponding letter string
+was presented very shortly before the target
+word. The key finding was that activation
+in the semantic network extended
+for both forms of word. Thus, semantic
+memory is organised on the basis
+of semantic relatedness rather than
+relatively early in word processing.
+The same finding was reported by
+Cobb et al. (2000) in a study on
+semantic memory in healthy individuals.
+The key finding was that semantic memory
+was much better when participants
+had previously been exposed to (and
+formed a word around) a grapheme–
+phoneme relationship strongly resembling
+that between letters and sounds.
+Marzi et al. (1997) argued that
+the above findings reflected a general
+approach to semantic memory based on
+the assumption that semantic memory is
+stored in the semantic network.
+Evidence that this general approach to
+semantic memory was responsible for
+the memory performance of healthy individuals
+was reported by Sun (2006) in studies
+on word superiority. Participants were presented with word pairs such
+as o’ and o’” and decided whether the
+second word was the same as the first. The
+second word was selected 98.9% of the time
+when both words were presented, compared
+to only 82.5% when only one word was
+presented. Thus, participants seemed to have
+inhibited processing for the second word
+by which it was associated.
+How can we strengthen the argument that
+we have a general theoretical approach to
+semantic memory? Consider the following
+sentence from Sun (2006):
+“People spend much time and effort
+learning and developing knowledge about
+foods, clothes, tools, and houses.” That
+sentence provides a good theoretical starting
+point for identifying key aspects of semantic
+memory. We will shortly discuss relevant
+evidence.
+
+Evidence
+We will start by considering the literature on
+episodic memory. Episodic memory is
+discussed throughout this book in connection with
+the theories put forward by Cadman, Shanks, and
+Alpert (1999
+====================
+by
+
+C H A P T E R S U M M A RY
+•
+
+Introduction
+Historically, the notion that consciousness is an extremely important phenomenon has been supported by numerous
+studies. The notion that consciousness can influence behaviour has attracted considerable interest. The
+crucial assumption that consciousness has high priority over other aspects of cognition (e.g., generative processing) is also supported by findings showing high
+levels of cross-modal interference.
+There is increasing evidence that the processing of complex information spans multiple modalities. This suggests that cognitive neuroscience is
+useful in integrating information from different modalities.
+
+•
+
+Constraint-based theories
+According to constraint-based theories, cognitive processes are located in a single location and are
+uniformly distributed across the brain. This location is called the
+constraint-based system. The load on the constraint-based system is low because
+the computations within it are relatively simple. According to the dual-route cascaded model, the load on the constraint-based system is higher when
+the flow of information is unrolling. This unrolling helps to provide
+support for the constraint-based theory.
+
+•
+
+Dual-route cascaded model
+According to the dual-route cascaded model, automatic processing of unsupervised information is coupled with substantial
+linguistic processing being carried out at the same time. This leads to widespread processing of unattended stimuli. The assumption that automatic
+processing is unidirectional (i.e., there is no unsupervised processing of unattended stimuli) is also
+supported by findings showing high levels of cross-modal interference. The dual-route cascaded model is based
+on the assumption that automatic processes are unidirectional and that the load on the constraint-based system is high when
+the information is unsupervised. The dual-route cascaded model is also
+consistent with the notion that the constraint-based system is unidirectional.
+
+•
+
+Procedural memory
+Procedural memory involves various stages, some of which can be categorised as parallel or parallel split. We use parallel processing when
+we repeatedly process some set of stimuli. We split into two thinking
+modules when we perform two different tasks at the same time. Parallel processing is of limited capacity, and so requires
+conscious awareness to be used in effectively
+
+split-brain patients require extensive procedural learning. As
+we will see, there are important differences between
+serial and parallel processing.
+
+•
+
+Theories of consciousness
+According to global workspace theories, global workspace is used in dual-task
+performance. There is a bottleneck in the
+binding process at this stage, and so it is necessary to use
+executive processes to co-ordinate the functioning of
+the global workspace. Evidence from brain-damaged
+patients and from functional neuromaging in
+healthy individuals supports the notion that dual-task
+performance is highly organised. Activation in the
+frontal lobes and the anterior cingulate
+is consistent with the notion that there is a
+world-wide network of processes operating at
+the same time. This idea of a dual-task
+network is also supported by evidence that
+the same processes are used in different brain
+areas.
+According to the dual-route cascaded model, global
+workspace is used to facilitate co-ordination
+of task performance. Suppose a patient has
+problems with initiating conversation in
+the absence of any apparent problemscentring on
+the meaning of certain words. According to the
+cascade model, this would suggest that he/she has
+some problems in binding together task
+components.
+
+Evidence
+
+Miyake, Friedman, and Kawano (2000)
+studied a patient, KE, who had a stroke.
+In spite of this, he managed to acquire new semantic
+knowledge of words and concepts from the
+media including television and film. He was
+also successful in identifying pictures from the
+media including television and film. Overall, he was
+
+As predicted by the dual-route cascaded model, his
+knowledge of objects and concepts was
+much better when he had access to global workspace. He was correct
+(100% correct) when he had access to a
+textbook full of definitions of words and concepts.
+However, he was wrong on the interpretation
+of some words and concepts (e.g., “most
+popular”). He was also wrong when
+concretely asked questions about objects
+(e.g., what is a “rocket”? He was
+correct with 88% of his queries, better
+than chance performance.
+The above findings go against the dual-route
+cascade model. However, it is theoretically
+acceptable
+====================
+The
+central executive is a
+rehearsal-based system used in the early stages of learning and in various contexts throughout the day. It is a component of working memory and is generally
+less involved in complex problem solving than the
+central executive. Evidence that the central executive is of central importance in
+problem solving was reported by Asato, Sweeney, and Luna (2006).
+Fourteen year olds were given with one eye the
+task of detecting letters of a certain type or a
+different colour from each other. The task was
+difficult in that participants had to process
+the combinations of different coloured
+letters when deciding which letter to write. The
+adolescent girls performed much better on
+the assignment of coloured letters when they had
+formed the causal decision (60% versus 45%,
+respectively).
+It has generally been assumed that the
+central executive plays a central role in
+problem solving. Evidence that it is not
+always involved was reported by Asato,
+Fugelsang, and Luna (2005). Participants were
+presented with an array of three coloured letters,
+and decided which of these letters was the correct
+colour. The task was to identify the correct
+colour for each letter. The key finding was
+that performance was much better when the
+cues for all the letters were available
+(at the end of the experiment) than when
+they were not (at the start of the experiment).
+Asato et al. concluded that the central executive
+has limited capacity, and so must be used
+when the task requires some processing beyond
+that performed initially.
+
+Evidence
+The central executive has often been regarded
+as the symbol of speed and accuracy. However,
+that is not always the case. Nissen, Lindsey,
+
+278
+
+COGNITIVE PSYCHOLOGY: A STUDENT’S HANDBOOK
+for example, found that the central executive
+was less useful than predicted by the dualtask
+model (Morris et al., 2002). Foyt, Fessenden,
+and Douglass (2003) found that participants
+performed poorly on two tasks at the same
+time (visual and verbal), but could not
+perform well on the second task. This is
+because participants did not realise that the
+second task required the central executive.
+Fessenden et al. (2003) found that the
+performance of healthy controls on the second
+task was determined largely by task similarity
+and not by central executive capacity. However,
+Fessenden et al. (2003) did find some evidence
+of impaired performance on the second task
+when the second task involved higher perceptual
+levels than the first task. This was
+not the case when the second task involved
+only visual processing.
+Mather, Finkle, and Bülthoff (2008) pointed
+out that most neuroimaging research
+on attentional processes does not consider the
+effects of prefrontal activation on attentional
+processing. Therefore, it is premature to speculate on
+the effects of prefrontal activation on
+attentional processes. However, Finkle et al.
+did find that prefrontal activation predicted performance on the second task more
+than on the first task.
+In sum, prefrontal cortex is involved in
+attentional processes of all kinds. The
+specific tasks that these processes are used for vary
+provide clues as to how they are involved.
+However, the notion that they are all of
+equal importance has proved controversial.
+Finkle (2004) argued that the attentional
+system (resembling the working memory system
+of the working memory paradigm) is the
+system of last resort. There is a double
+dissociation between prefrontal activation
+and attentional processes (discussed below).
+
+Evidence
+If prefrontal cortex is the system of last resort,
+then Finkle’s (2004) research on healthy
+individuals should reveal the importance of
+relevance to attention. That is precisely
+what Finkle found. Participants
+focused their attention on a red circle
+that moved randomly to a left or right
+location. There was a positive correlation
+between activation in the dorsolateral prefrontal
+cortex and attentional processes (see Figure 12.12).
+This suggests that prefrontal cortex is
+important in attentional processes. In contrast,
+there was relatively little effect of prefrontal activation on Finkle’s (2004) attentional processes. It is worth noting that
+Finkle had hypothesized that prefrontal cortex
+would be more involved in attentional
+processes when individuals had a high
+level of working memory capacity (which is
+shown by the use of complex task-relevant knowledge)
+or had a low level of working memory
+capacity (which is shown by the use of simple task-relevant knowledge). The
+====================
+by
+
+Johansson (1975)
+
+Figure 2.8 Johansson’s (1975)
+syntactic typology of emotions. Adapted
+from Johansson (1990).
+
+• It is felt that all members of a
+category are represented equally in
+this typology. However, some members of a
+category possess certain additional characteristics
+(e.g., irritable, vain, aggressive). These additional
+features may or may not be shared by
+all members of the category.
+• The same emotion can be produced by
+alexia, agrammatism, and fellow travellers
+(the “featureless” group).
+• The same emotion can be produced by
+artificial intelligence, pharmacology,
+and/or cognitive neuropsychology.
+• However, the emotion produced by artificial
+
+intelligence is “unfamiliar” to most members of
+the category.
+• The emotion produced by pharmacology is
+associated with the hippocampus, whereas
+the emotion produced by
+an actor playing a musical note is associated
+with the neocortex.
+The above predictions have been
+tested experimentally. We will consider some of
+the main ways in which researchers have
+tested these predictions.
+First, there is the list method. On the face of it,
+it seems very simple. For example, if you
+can think of one word or phrase in advance
+of another, you are set. However, it has proved very
+difficult to test this assumption, because
+there are numerous possible ways of expressing
+the emotion expressed by any given word.
+Second, there is the masking procedure.
+Participants are first presented with a
+verbal report card describing various aspects
+of their current situation. After that, they
+are presented with a second report card,
+which contains a wider applicability
+to their current situation. This second report
+card is usually more valid than the
+first one. It is assumed that the essense
+of the verbal report card is more
+likely to be believed when it is from the
+suppression or suppression expert and
+is more easily processed. Thus, top-down
+processes are often important in our
+emotional processing.
+Third, there is the action method. Participants
+are told to adopt a particular action (e.g.,
+a walking pace) towards a target. They
+then have the task of pressing a button
+when they reach a certain point. The precise
+conditioning conditions used vary
+from study to study, but generally involve
+the participant carrying out a task at the
+same time. The precise actions to be used depend
+on the nature of the cue (e.g., visual or auditory)
+and the consequent demands on working memory.
+The finding that action planning and
+action execution are positively correlated
+suggests that these two processes are closely
+interconnected.
+Fourth, there is the masking procedure.
+This involves concealing the identity of the
+target stimulus (i.e., the reported target)
+by presenting a second, identical cue (i.e., the
+false target) very soon thereafter. This second cue is typically a cue based on
+same stimulus characteristics as the first one. Concealment of the target stimulus often
+produces inhibitory interference,
+which is why it is sometimes called
+cross-modal interference.
+Five wonders of the brain
+We will conclude this section with a brief
+analysis of the brain areas involved in emotion. Before
+we do so, however, we need to distinguish between two very
+different kinds of emotion. First, there is “anxious”
+emotion, which involves high or sudden
+anxiety. Second, there is “depression”
+which involves low or gradual depression.
+As Parkinson (2001, p. 181) pointed out,
+“Dysfunctional emotion is one of the most
+emotion-impairing disorders.”
+
+Anxiety
+Animal models of anxiety provide
+a useful framework within which to understand
+the nature of anxious and depressive symptoms.
+Parkinson (2001) started by asking
+visually presented participants to perform
+a visual search for a target. The target was
+a novel object (e.g., can of Coke, can of Pepsi)
+or a person (e.g., famous person). Some of the
+participants were then shown a second visual
+display, and this time they too held a novel
+object. The crucial finding was that the
+amount of time spent on the second display
+was related to the intensity of the anxious
+reaction (see Figure 4.12).
+Since visually presented stimuli are immediately
+available to the perceptual system, this finding
+suggests that the perceptual system has very
+centralised control over anxious processes
+====================

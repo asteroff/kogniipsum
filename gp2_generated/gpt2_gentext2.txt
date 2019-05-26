@@ -1,0 +1,127 @@
+Cognitive neuroscience
+There is considerable evidence that the prefrontal cortex plays a major
+role in the cognitive processing of action and
+perception. For example, Volkow and Dehaene (1998)
+asked participants to perform an action
+followed by a recognition test. There was a
+greater increase in activation in the dorsolateral prefrontal cortex when the
+participants decided to perform the action
+than when they decided not to. This is consistent
+with the notion that the prefrontal cortex is involved
+in integrating information about action and
+perception.
+
+Evaluation
+The cognitive neuroscience approach has shown
+that there are substantial differences between
+processing action and perception. More
+specifically, the evidence indicates that the prefrontal
+cortex is of special importance in processing
+action but not perception. In addition, the evidence
+also indicates that perception and action are
+processes in different brain areas. The evidence
+is generally more supportive of the notion of
+separate perceptual systems with the prefrontal cortex
+than the one with the striatum.
+What are the limitations of the cognitive
+neuroscience approach? First, the emphasis has
+been on relatively superficial similarities between
+the cognitive processes involved in action
+and perception. As a result, two systems
+(the perceptual and the cognitive system) have
+been identified. However, it is not clear
+whether these two systems are completely separate.
+Second, it has often been assumed that
+the processes involved in perception and
+action are essentially identical (i.e., there
+are similar stimulus inputs). However, the
+evidence does not support that assumption.
+For example, Inagaki, Inagaki, and Matos (1997)
+presented visual displays containing various
+stimuli. Some stimuli attracted attention whereas
+others did not (control condition). The key
+finding was that activation of the ventromedial prefrontal cortex was greater in the
+control condition than in the other condition.
+Third, it has often been assumed that there
+are three types of visual attention:
+(1) Static point-light
+system: This is focused on the point in
+the visual field. It is used for signalling
+and for selective attention.
+(2) Dynamic point-light
+system: This system is involved when we
+attend to a given spatial location and
+also for signalling. It is involved in
+selective attention.
+(3) Point-light
+system: This system is involved when we
+attend to a given point in the visual
+field. It is used for signalling and
+for selective attention.
+
+KEY TERM
+dorsolateral prefrontal cortex: This is the
+brain area in which most of the executive
+processes involved in working out the location
+of an object in the visual field are conducted.
+
+9 READING AND SPEECH PERCEPTION 351
+
+Static point-light
+system
+
+Figure 9.1 The static point-light
+system used in the study by Inagaki et al.
+(1997).
+
+Attentional bias
+
+Attentional
+response bias
+
+Dynamic
+point-light
+
+Attentional
+response bias
+
+Static
+
+Dynamically
+point-light
+
+Attentional
+response bias
+
+Dynamically
+
+point-light
+
+Attentional
+response bias
+
+Figure 9.2 The findings obtained
+by Inagaki et al. (1997).
+
+Attentional bias
+
+Attentional
+response bias
+
+Dynamic
+
+Figure 9.3 The effects of
+attentional bias and response bias on
+performance in the dynamic
+condition. From Inagaki et al.
+(1997).
+
+Attentional bias
+
+Attentional
+response bias
+
+Dynamic
+
+Figure 9.4 The effects of
+attentional bias and response bias

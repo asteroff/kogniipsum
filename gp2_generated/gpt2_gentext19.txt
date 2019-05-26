@@ -1,0 +1,554 @@
+Heller, Rutherford, and the rest of the
+Austrian school (e.g., Frauenfelder, von Hofsten,
+Deffenbacher, & Ziegler, 2004) adopted a
+different approach. They argued that emotional
+states can influence cognitive processes, but
+typically do so via a process of inattention
+and so lack ecological validity. Heller et al.
+proposed the notion of an emotion-based
+network, consisting of nodes representing emotional
+states and pairs of processes for ‘involving’
+emotional states’ (see Figure 15.4).
+According to their theory, emotion-based
+nodes are associated with emotion-based
+processing and emotion-based processing is
+associated with attentional processes. Thus,
+an emotion-based network can be
+assessed by assessing how emotional states
+impact participants’ ability to process emotionally
+coded stimuli.
+Numerous attempts have been made to
+account for the distinction between emotion-based
+and emotion-based processes. Most of these attempts
+have focused on the notion that the distinction
+between emotion-based and emotion-based
+processes is arbitrary and that there is no
+constitution for emotion-based processing. We will
+consider these two views at length.
+Before doing so, note that some of the
+evidence indicates that the distinction is
+not arbitrary. Caccappolo-van Vliet, Huppert,
+Blangero, and Passingham (2004) obtained evidence
+indicating that the distinction is arbitrary.
+Participants copied the object shown
+in Figure 15.4 while performing the
+following task:
+A hand is raised in a loud
+voice to signal that it is welcome
+at home.
+
+KEY TERM
+cascade: a learning mechanism in
+connectionist networks based on
+the assumption that connectionist
+networks consist of elementary units
+having common properties (e.g., firing
+rod, walking stick).
+
+15 COGNITION AND EMOTION 605
+
+Figure 15.4 Examples of ‘involving’
+objects used in the experiments. The
+representation of the role of the
+condition as a learner is shown by the
+shape of the arrays. From Picasso
+et al. (2004), Copyright © 2004
+American Psychological Association.
+Reproduced with permission.
+
+The task involved the generation of a
+list of words and the presentation of
+them to the participants. There were two
+main types of participant:
+(1) The correct response ('cascade'
+condition') was given 100 trials,
+whereas the incorrect response ('cascade'
+condition') was given 75 trials.
+(2) The correct response ('cascade'
+condition') was given 75 trials,
+whereas the incorrect response ('cascade'
+condition') was given 25 trials.
+The participants had to respond to all the
+words presented to them in the correct order
+or suffer the consequences.
+The key finding was that the number of trials
+in which the correct response was given
+was much greater in the cascade condition than
+in the incorrect response condition. This suggests
+that the correct strategy was to avoid
+responding to the target words by responding
+to them in the correct order.
+
+Evidence
+Amnesic patients often have normal (or nearly normal)
+rates of learning across numerous tasks.
+Spiers et al. (2001), in a review discussed earlier,
+considered the memory performance of
+various amnesic patients. They concluded as follows:
+“None of the cases was reported to be impaired
+on tasks which involved learning skills or habits,
+priming, simple classical conditioning and simple
+category learning” (p. 359).
+Tranel, Lewis, Monga, and Levy (2003)
+carried out a study in which amnesic patients
+learned word pairs for comprehension while
+intact controls learned word pairs for recall. The
+patients were asked to read a story from the
+
+supporting narrative or the opposite narrative, and
+to indicate on each trial which was the
+story from. The amnesic patients learned
+the story faster and more automatically
+than the control participants while
+reading the story. However, the amnesic
+patients were slower than the controls
+for recall of the story type (high
+complexity), suggesting that the amnesic patients
+
+had considerable difficulty in recalling the
+story.
+Levy and Levitan (2002) studied another
+memoral-knowledge effect. Participants learned
+a list of words on one side of the
+record and learned them on the other
+side of the record. Then they were presented
+with a second list of words, on one side
+of the record
+====================
+The second
+key assumption is that
+most tasks involve some combination of
+the above processes. For example,
+there are similarities in the processes
+involved in planning and monitoring action
+in healthy individuals and in brain-damaged
+individuals. However, the major difference is that
+the frontal cortex is much more activated
+when individuals are planning than when
+they are monitoring action. Accordingly,
+Kintsch et al. (2007) focused on the brain
+areas associated with planning, and identified
+the prefrontal cortex as being especially involved
+when individuals are faced with
+various complex actions.
+Evidence that the second assumption is
+important in action planning was reported
+by Goldstein and Cowey (2004). Participants were
+planning a complex action (e.g., reaching out and
+holding a cup) when suddenly a stimulus
+was presented. As predicted, action planning
+was much better following a sudden unexpected
+stimulus than one involving slow, deliberate
+thought.
+Goldstein and Cowey (2005) also
+assessed the involvement of the prefrontal cortex
+in complex planning. The main task involved
+the Stroop task, in which the participant
+was presented with a continuous stream of
+letters and had to indicate which of eight
+letters was selected. The participants were
+then interrupted while they formed a
+decision about the ordering of the letters.
+The participants showed no conscious planning
+of the actions they had just performed,
+indicating that their initial plan was based
+on unconscious processes.
+How similar are the processes underlying
+conscious perception and automatic processing?
+There is a shortcoming in Goldstein and Cowey’s
+(2004) theoretical approach. According to
+their conceptualisation of automatic processing,
+it should be assumed that there is a bottleneck
+consisting of a processing bottleneck (i.e., the
+unconscious system) that prevents us from carrying
+out several actions at the same time. This bottleneck is
+consisting of a mixture of regularity and
+integrity (see Figure 5.6). According to Goldstein
+and Cowey, this mixture is used in automatic
+processing but is not always used. More
+direct evidence that the automatic system is
+important was reported by Goldstein and
+Tanenhaus (2003). Participants were presented
+with a continuous stream of letters and had
+to indicate which of eight letters was selected.
+On some trials, they were interrupted while
+working out the order of the letters. This
+applied to the regularity condition but not
+to the integrity condition. In the counterfeiting
+condition, all participants were given the
+same number of trials to perform the
+same action as on the continuous stream. In
+the counterfeiting condition, some participants
+were given the opportunity to try to detect the
+impediments to their actions by reporting
+the objects they could have detected on the
+current trial. In the integrity condition, they
+were told that the observed actions were
+not the ones that had been generated by the
+construction of the planned action. The
+key finding was that the amount of time spent
+detecting the presence of a planned action
+(i.e., the amount of time spent on task
+activation) predicted performance.
+Goldstein and Cowey (2005) put forward
+a theoretical account of automaticity (see
+Figure 5.7). They argued that we possess
+unconscious cognitive processes operating
+at the unconscious level. These unconscious
+processes produce automaticity, in the sense that
+we perform numerous actions without conscious
+awareness. According to Goldstein and Cowey,
+these unconscious processes are very efficient.
+They emphasised the notion of “automaticity
+without conscious awareness”, which is presumably
+what motivated Davidoff and Shiffrin (1977)
+when they argued that automaticity is
+only possible in consciousness.
+There is considerable support for the notion
+of automaticity in the research on braindamaged patients we have discussed throughout this chapter. Examples include alexia
+(impairedlexia), agrammatism (slow, ungrammatical
+speech), and cerebral agnosia (impaired
+language). It is worth distinguishing between automaticity
+and automaticity in the sense that individuals
+with agrammatism can still communicate
+faster and more easily than those with
+alexia or aphasia. According to Goldstein
+and Cowey (2005, p. 252), the notion that
+
+there is an automatic system capable of producing
+reasonably complex sentences is plausible
+because such complex sentences would require
+attentional processes to produce. In contrast, there is
+evidence that the production of automatic
+sentences depends on a much simpler and more
+effortless system of processes. According to
+Deese and Deese (2000, p. 249), this system is
+“
+====================
+
+The basic idea behind the dual-route cascaded model is that different brain
+areas interact in a dual-route cascaded way
+when two tasks are performed at the same time.
+It is assumed that the brain areas corresponding
+to the two routes are identified at the same
+time, with activation of one route leading to
+activation of the other. It is assumed that
+neurons responding to a given target are
+activated near the site of brain damage,
+whereas those responding to a second target
+are activated near the site of brain damage.
+It is also assumed that a third target is
+detected very early in processing, and so
+it is not obvious which brain areas are involved.
+There is some evidence for a four-route
+cascaded model in which the brain
+areas activated during performance of a
+tasks 1 and 2 are not activated near the
+target sites.
+The dual-route cascaded model has
+some limitations. First, as Harley (2008, p. 384)
+pointed out, “The dual-route cascaded
+model assumes that top-down and bottom-up
+processes interact flexibly in visual processing.”
+However, it is assumed within the
+dual-route cascaded model that top-down and
+bottom-down processes interact only in the
+long-term. Top-down and bottom-up processes are
+typically associated with a single process,
+whereas the long-term associates with several
+processes. Thus, the dual-route cascaded model
+assumes that processing is serial and top-down.
+Second, the brain areas involved in the
+performance of a task are not identified.
+Top-down processes are assumed to be important,
+but the extent of their involvement in the
+performance of a task is not indicated.
+Third, the performance of a task is
+probably affected by several different factors,
+such as individual differences in task
+type (e.g., perceptual vs. conceptual) and
+individual differences in task difficulty.
+The dual-route cascaded model can easily
+be applied to many different kinds of tasks.
+However, it is concerned primarily with processing
+intensive tasks. It is not clear how the
+dual-route cascaded model addresses the
+issue of whether sustained attention is
+required for processing to occur.
+Fourth, the model does not explain why
+we have processing problems on some tasks
+(e.g., perceptual integration) but not on others.
+The assumption that attention is necessary for
+the performance of a task makes sense
+if we are after the explanation of individual
+differences in task performance. However, most
+of the evidence indicates that the neural
+mechanisms underlying individual differences
+in task performance are much simpler than
+we might imagine (see Chiappe & Chiappe,
+2007, for a review).
+Fifth, it is assumed that the processing of a
+textbook or textbook typically proceeds
+in a coarse-to-fine way, and so involves a
+series of stages moving from the initial
+encoding of the text to the subsequent
+processing of the text. It is not clear
+whether the same general processing scheme is
+used on a regular basis or whether there is
+a gradual reduction-backward propagation
+algorithm.
+Sixth, the processing of texts in the wild typically
+occurs fairly rapidly and automatically. In
+contrast, the processing of man-made texts
+can be very complex and take a considerable
+amount of time. Estimates of the time
+required for processing of a text by experts
+are typically between 700 and 900
+seconds (Boly et al., 2008), which is rapidly
+moving. The speed of text processing in
+contrast to the slow processing of natural
+texts is presumably affected by the text
+structure itself (e.g., the syntactic / semantic
+structure).
+Seventh, it is assumed that the processing of
+texts involves various stages, with the
+first stage being the generation or encoding
+of the text. The second stage is
+the retrieval or encoding of the text,
+and the third stage is the retrieval or
+encoding of the reader’s/listeners’/
+attentional processes (see Chiappe & Chiappe,
+2007, for a review). It is assumed that the
+reader’s/listeners’/attentional processes are
+involved in the generation of the text’s
+structure and the retrieval of its content.
+In view of the enormous importance of the
+readers’/listeners’/attentional processes, it is unsurprising
+that they are discussed at the end of the chapter.
+
+Grapheme–phoneme conversion
+====================
+The main differences between
+the two views are as follows:
+(1) The emphasis is on the growth of
+consciousness (consciousness as such).
+In contrast, the dual-task approach
+has much more to say about the processes
+involved in changing behaviour from one
+state to another.
+(2) There is a strong emphasis on the
+growth of self-knowledge (conscious
+selfhood). As such, it is of great importance
+to understand our personal histories.
+The growth of self-knowledge is
+clearly superior to the growth of consciousness,
+which is clearly the goal of every single
+cognitive scientist.
+What are the limitations of the dual-task
+approach? First, it is very hard to assess
+the precise time interval between
+the start of processing and the delivery
+of the response. For example, it is hard to
+know whether the growth of self-knowledge
+has started just before or after the initiation
+of processing. Second, there is a dearth of
+studies comparing the effects of different
+task parameters on brain activation.
+Third, the brain areas associated with
+different processes are not always clearly segregated.
+For example, activation of the prefrontal cortex
+is associated with conscious awareness
+but not with automaticity (Dijkerman, 2002).
+Fourth, the brain areas activated during automaticity
+may differ from those activated during
+conscious awareness. More evidence is needed
+to clarify the role of the prefrontal cortex
+in automaticity.
+
+C H A P T E R S U M M A RY
+•
+
+Experimental cognitive science
+In this section, we consider major theories of cognitive
+science, including those of James Morris,
+Inman, and Dijkerman (1998, 1998). The
+two theories are complementary: they are
+all based on the assumption that major processes
+(including attention) occur relatively early in
+the processing system and are then attended
+to by a later stage of processing. However, the
+theory of James Morris (1998, 1998) is
+more complete and more in-depth. It is
+assigned to the assumption that there are
+numerous connections between the brain
+(probably including several specialised
+processing units) and the rest of the cognitive system.
+
+•
+
+Cognitive neuroscience
+In recent years, there has been a large increase
+in the number of studies designed to test the
+the dual-route cascaded model of consciousness.
+These studies focus on brain-damaged patients having brain damage limited to one
+or two areas (see Leake, 2006, for a review).
+The dual-route model assumes that the brain
+is divided into three main routes or streams.
+The flow of information between the brain
+and the mind is controlled by the central executive,
+which is the main working memory system.
+The flow of information between the brain
+and the physical environment is controlled
+by the visuo-spatial sketchpad, which is the
+system used for spatial and visual coding.
+The visuo-spatial sketchpad is used for
+various important tasks requiring spatial processing,
+e.g., finding the route to a goal; interpreting
+verbal reports; and so on.
+According to the dual-route cascaded model,
+damage to the visuo-spatial sketchpad should
+lead to impaired performance on most dualtask
+performance tasks. That is precisely what
+Leake found. He started by presenting
+visual stimuli briefly (e.g., a green vertical
+task) below the level of conscious awareness,
+followed later by the same visual stimuli
+presented above the level of conscious
+awareness, with the participants deciding
+whether the stimuli were presented above
+the level of conscious awareness. There were
+two main findings. First, performance was impaired
+when the stimuli were presented above the
+conscious level. Second, performance was
+impaired when the stimuli were presented
+below the conscious level. This finding is
+surprising, because it is assumed within the
+dual-route cascaded model that there should be
+no processing of visual stimuli above the level
+of conscious awareness. Why was there no
+effect of damage to the visuo-spatial sketchpad when
+participants were not consciously aware
+(i.e., below the level of conscious awareness)?
+According to the dual-route cascaded model, there should
+be a balance between processing demands
+for information and the limited capacity of
+conscious awareness. If there is a net negative
+effect of damage to the visuo-spatial sketchpad
+when participants are not consciously aware, there should
+be a net positive effect of damage when they
+are consciously aware. That is precisely
+what Leake found.
+The dual-route cascaded model may be
+too hierarchical and so lacks
+====================
+
+COGNITIVE
+NEUROPSYCHOLOGY:
+SPLIT SENSING
+We have discussed the role of attention in word recognition, and have also discussed the role of top-down processing in object recognition.
+However, what happens when we need to access a broader
+range of information? This requires a processing strategy that is
+constrained by the semantic constraints of the current
+sentence. Bossé (1989) identified three such processing
+strategies:
+(1) Semantic constraint: The parser or
+program should only process the words
+based on a semantic constraint. For example,
+the word “clip” should not be parsed
+because it is semantically associated with
+nouns (e.g., “clip” is “a bird”).
+(2) Lexical strategy: The parser should try
+to identify all the words matching the
+syntax-critical word. For example,
+the word “clip” should be processed
+because it is a word relevant to bird
+keeping or song composition.
+(3) Implicit processing: The parser should
+not process the words it does not
+have knowledge about. For example,
+the word “clip” should not be processed
+because it is not relevant to bird
+keeping or song composition.
+The three strategies identified by Bossé (1989)
+are shown in Figure 9.3. They are
+joined by a final, unknown word (presumably
+the target word) and a final, non-word (presumably
+the distractor word). Theoretically, the
+parser should identify the target word
+fastest when it is involved in the lexical
+and semantic parts of the lexical strategy,
+but this should not be the case with implicit
+processing.
+The findings are shown in Figure 9.3.
+There was a general increase in speed
+with increasing levels of lexical processing,
+as indexed by the speed-to-target ratio.
+However, there were significant differences in
+magnitude of target-detection time between
+low- and high working memory capacity.
+This suggests that higher-capacity individuals
+display greater processing capacity than
+low-capacity individuals when the task requires
+the generation of several tens of thousands
+of words.
+The findings of Bossé et al. (1989) were
+based on a simple, two-stage model. However,
+it is likely that more complex models
+are needed to explain the findings.
+
+Evidence
+Carvalho (2002) used a broader, hierarchical
+approach to understanding human word
+memory. He started by distinguishing between two types of long-term
+memory.
+
+Word cache
+Word cache is a special kind of memory that is
+held in memory and is accessed automatically when the word
+cache is full. Suppose you have stored
+documents relating to your entire life. If you
+decide to read them, you will probably
+use automatic processes to access your
+career, your friends, your hobbies, and so on.
+There is no special process for accessing
+documents relating to your life. However, suppose
+you do not want to access them (for
+example, you are not sure whether you want
+to marry). There is a process of selection,
+in which you decide whether the documents
+are relevant to your current goals. For example,
+it takes a long time to decide whether to
+study psychology or to become a lawyer
+(Barr, 2004), and so there is a bottleneck in the
+process of accessing documents.
+
+Evidence
+
+Accessing relevant documents for the purpose
+of learning can be regarded as a form
+of deliberate practice. There is evidence
+that deliberate practice on the word-cache
+model can be applied to a wide range of
+cognitive tasks. For example, De Neys (2006b)
+carried out a meta-analysis of neuroimaging studies on the effects of deliberate practice
+on processing of emotionally negative words.
+The tendency of brain activation to be
+related to deliberate practice was also
+shown by De Neys and Glahn (2008). Participants
+were presented with a list of words and
+was then brain-activated with the corresponding
+letter or non-word. The findings of De Neys
+and Glahn (2008) were that activation of the
+
+frontal operculum and anterior superior
+temporal gyrus was associated with deliberate
+practice, and brain activation in the
+subcortical emotional system was associated
+with deliberate practice.
+Corkin (1968) reported that epileptics
+often show activation of the emotional system
+regions, but this is not conclusive. He claimed
+that the involvement of the emotional system
+in deliberate practice was limited to the
+
+====================

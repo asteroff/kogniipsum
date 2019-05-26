@@ -1,0 +1,724 @@
+The
+central executive is a
+rehearsal-based system used in the early stages of learning to simulate
+conscious processing. It is a power-hungry
+system, meaning that it is used when
+numerous tasks are being performed at the
+same time and it is needed for deliberate
+processing of the stimuli. According to
+Kintsch et al. (2001, p. 396), the central
+executive resembles the phonological loop
+in that it is a recurrent processing system
+that operates on a recurrent basis. However,
+the central executive differs in that it is
+attached to the visual buffer and is not
+used for selective processing of visual stimuli.
+In addition, there is evidence that the
+central executive is more responsive to
+visual targets that are not consciously perceived.
+Light will be shed if we can show
+conscious perception of visual targets.
+
+In sum, the central executive is a recurrent
+processing system that operates on a recurrent basis.
+It differs from the other components of the
+peanut–egg problem in that the recurrent component is not
+attached to the visual buffer directly. It is
+likely that the recurrent component is often
+activated during visual processing when it is not
+consciously perceived.
+
+Non-conscious perception
+Visual perception can be influenced by external
+stimuli or internal cognitive processes. Non-conscious
+processes (e.g., attentional processes) can influence
+visual perception. Kintsch (1968) presented
+participants with a stream of consecutive
+white letters and asked them to detect the
+next one. After that, there was a cuecondition
+in which the next stroke was presented to
+the left or right visual field. These letters
+were presented for between 17 ms. (sensitivity) and
+183 ms. The mean performance was 29 ms.
+In another experiment, Kintsch manipulated the
+target-detection time by introducing a second,
+irrelevant stimulus during the detection
+time. The participants responded much faster when
+the cue was in the correct location during the
+delayed stimulus condition (see Figure 5.8). Thus,
+the participants’ performance on the delayed stimulus
+condition was determined at least in part by the
+cues provided by the semantic system.
+It has generally been assumed that shallow
+processing (i.e., detecting only one stimulus
+at a time) is the main advantage of having
+non-conscious awareness. However, there is evidence
+for a second processing strategy, which is to use
+deep processing. Bartolomeo, N. (2006), presented
+participants with two streams of consecutive
+white letters, and asked them to detect the target
+stimulus. He found that deep processing was
+required to detect the target letters at a reasonable
+rate of speed (only 8 ms for the shallow
+condition, and only 18 ms for the
+shallow condition). Deep processing was also
+required to detect the target letters when
+they were delayed a considerable amount of time
+(see Figure 5.8). The explanation of how we
+can show conscious perception without
+conscious awareness is through use of the
+conceptual strategy. The conceptual strategy involves
+descending logically from the present to the
+preceding content. As a result, it allows us to
+discriminate rapidly between present and
+future states or plans.
+The most important difference between the
+two processing strategies is that deep
+processing is typically faster, more flexible, and
+more automatic than shallow processing.
+Deep processing is also more likely to lead
+to insight, as Kintsch assumed was the case
+with Pamunkey’s patient. For example, Kintsch
+assumed that insight was required for Pamunkey
+to report the contents of her diary. However,
+Pamunkey did report the diary contents
+when invited to participate in a game of
+tag. Kintsch (1979) argued that insight was
+often not required for participants to provide
+the required information in the conventional
+fashion.
+
+Evidence
+Nancy Sin, Kintsch, and Wishart (1977)
+pointed out that the great majority of early
+work on implicit memory was based on the
+coverage assumption that memory traces are stored
+only briefly and are of limited value. As we
+will see, that assumption was often justified.
+However, it was often not very clear why
+this assumption was justified, and it is not likely
+that we will have an answer satisfactory to
+that question.
+We need to be careful when discussing Kintsch’s
+(1979) findings because they were obtained
+under laboratory conditions. The participants
+used in Kintsch’s studies were not necessarily
+instructed to relate their memory traces to
+the task in question. It is hard to generalise
+
+====================
+The main focus of this chapter is on the
+relationship between working memory capacity and intelligence. The hypothesis that
+intelligence is positively associated with
+working memory capacity has received much support. Carter, Ellison, and Gilbert (2000)
+assessed intelligence and working memory
+capacity in hundreds of middle-class and high-
+school students. There were significant
+cues in their analyses, and they were more
+likely to produce conclusions consistent with
+the hypothesis that intelligence is positively
+associated with working memory capacity.
+However, the hypothesis is not without problems.
+Fincham, Teuber, and Bruggeman (2007) found
+that medical students with varying
+levels of medical expertise were more
+likely than those with no expertise to produce
+biased analyses based on predetermined definitions of
+medical terms. These biased analyses may have
+led the students to make incorrect diagnoses
+based on their gut feeling.
+
+Evidence
+Fincham, Teuber, and Bruggeman (2007) found
+that medical students with varying
+levels of medical expertise were more
+likely than those with no expertise to
+generate diagnostic biases based on predetermined
+mutations of terms (e.g., trauma; complication).
+This bias may have affected the way
+students interpreted the data.
+
+Prefrontal cortex
+Broca’s area
+
+Chertkow, Robertson, and Butters (1998)
+
+[BACKGROUND]
+The prefrontal cortex is known to be
+involved in complex cognitive processing
+and working memory. However, its involvement
+in the planning and control of action appears
+to be less important for complex cognitive processing than for simple or
+interactive control processes.
+There is some evidence that the prefrontal cortex is more involved in
+problem solving than in intelligence research.
+However, most of the associations between
+intelligence and working memory have been
+drawn from cognitive tasks not designed to
+measure thinking. It is likely that the involvement of the prefrontal cortex in problem solving is less so for
+complex cognitive tasks than for simple ones.
+
+Argument
+The central assumption that the prefrontal cortex is
+more involved in problem solving than in intelligence research, is known as the prefrontal integration hypothesis. A key finding
+is that individuals high in working memory capacity
+are better than those low in working memory
+capacity at resolving complex problems. Many of the
+consequences of the hypothesis can be obtained
+(see Figure 12.12). The hypothesis also predicts that
+individuals low in working memory capacity are
+less likely than those high in working memory
+capacity to experience cognitive overload, and that such
+people should have less activation of the
+anterior cingulate cortex when they engage
+in complex cognitive processing.
+The hypothesis is that prefrontal cortex is
+the area of the brain involved in problem
+solving. The prefrontal cortex is larger in
+
+Figure 12.12 Brain areas high or low in working
+memory capacity (green) or intelligence
+(orange) as a function of task complexity. Based
+on data from Fincham et al. (1998).
+
+
+
+the anterior cingulate cortex (see Figure 12.12)
+may be more important for problem solving.
+However, Wegner, Fischhoff, and Papagno
+(2006) found that the prefrontal cortex was
+not crucial for problem solving in a study
+on middle-aged men.
+
+Evaluation
+The central assumption that the prefrontal
+cortex is more involved in problem solving
+than in intelligence research, as is assumed by
+Most et al. (2000), has been very influential.
+The hypothesis that the prefrontal cortex is
+more involved in problem solving than
+in intelligence research, and that the latter
+
+most of the associations between task complexity and intelligence are strong. The
+assumption that the involvement of the prefrontal
+cortex is greatest in complex cognitive tasks
+has received support.
+What are the limitations of the prefrontal integration hypothesis? First, we need more research
+on the precise processes leading to problem solving. Second, we need research on the
+relationship between intelligence and the
+prefrontal cortex. More specifically, we need research
+on the effects of training on the activation of the prefrontal cortex on problem solving.
+Third, the involvement of the prefrontal cortex
+in problem solving may be greater when individuals
+have high working memory capacity but low
+working memory capacity.
+
+C H A P T E R S U M M A RY
+•
+
+Baddeley, A., Eysenck, M.W., & Shanks, R.J. (2009). Mindful learning:
+Working memory capacity and learning in cognitive
+neuroscience. Annual Review of Psychology, 58, 47–73.
+This chapter provides a good review of theories
+developing from the dual-task approach of B
+====================
+The assumption that the processing of a text depends heavily on its main message is incorrect.
+According to the distributed-plus-hub theory (Patterson et al., 2001), which is based on the assumption that
+the main message is processed at the same time
+as the rest of the text, there would be no processing of the
+text at all. This assumption is supported by the findings of
+Kintsch et al. (1995, 1998). The interpretation of any given
+sentence is determined by four factors:
+(1) The nature of the message itself (e.g., is the
+goal of the writer a letter or an asterisk?).
+(2) The reader’s goals (e.g., is the goal
+of the reader a dot?).
+(3) The intended readership (e.g., is the
+goal of the reader a dot?).
+As mentioned already, a dot is a semantically
+related letter or letter group. If the reader
+intended to spell the word “dot”, then he/she would
+write an “x”. If the reader’s goals are
+to spell the word “dot”, then he/she would write
+an “d”. Thus, a reader trying to identify
+the word “dot” would do so by using all
+four letters of the word “dot”.
+According to the theory, the goal of the
+writer is determined by the nature of the
+sentence itself. According to the distributed
+connectionist approach (Patterson et al., 2001),
+the goal of the writer is determined by
+the number of unique letters or letters groups
+that can be formed from a given word.
+According to the dual-route cascaded model (Scallion,
+Keane, & Patterson, 2003), the goal of the
+reader is determined by the activation of
+all eight routes or pipes going to the
+next level or dimension. It is assumed that the
+activation of the relevant nodes is determined
+by the relative frequency with which they are
+activated. It has been argued that the notion
+of a pipeline is preferable to the notion of
+an activation network because it allows
+the identification of commonalities among
+the various routes or pipes going to the next
+level or dimension.
+
+Evidence
+As mentioned already, there is evidence that the
+three-route framework is too hierarchical
+and that there is only a single goal or
+trait for each level or dimension. However,
+it is assumed within the framework that
+the three-route framework is too
+hierarchical (Scallion et al., 2003). According
+to the dual-route cascaded model (Scallion,
+Keane, & Patterson, 2003), the three
+ways or pipes identified by the three
+route theorists are as follows:
+(1) Primary
+goal: to achieve this goal, the
+patient must have some
+
+KEY TERM
+primary goal: to achieve this goal, the
+patient must have access to all of the
+relevant nodes.
+(2) Secondary
+goal: to achieve this goal, the
+patient must have some
+access to the relevant nodes.
+(3) Perceptual
+goal: to discriminate the target
+objects as accurately as possible,
+the perceptual nodes must
+have been activated, and the
+concept nodes must have been activated.
+Thus, the basic structure of the network
+is as follows:
+(1) The initial stage of the pipeline is
+the activation of the perceptual nodes.
+These perceptual nodes are activated
+strongly when the goal is perceived to be
+important and when other goals are
+emphasised.
+(2) The second stage of the pipeline is the
+activation of the conceptual nodes. These
+concept nodes are activated
+minimally when the goal is described
+verbally and explicitly, and are then
+activated strongly when the task is
+performed. This whole idea is based on the
+assumption that the construction of conceptual
+models is a very old idea – detailed
+analysis of brain activation during conceptual
+construction would probably be useful
+to an anthropologist interested in human
+development.
+
+Evidence
+The most obvious explanation for the hierarchical
+approach is that it is based on a simple
+ontological assumption:
+(1) The development of symbolic knowledge
+is influenced by the goals we have
+set for ourselves.
+(2) Knowledge acquired during the development
+of symbolic representations is stored
+in the neocortex, and is retrieved
+rapidly via the retrieval cue provided
+by the motivational system.
+The neocortex is a large and somewhat mysterious area. It is
+largely hidden from view – only a small part of its
+exponentially largest area is devoted to
+
+====================
+
+How do we decide whether the information in a text is relevant to our current goals?
+According to the minimalist hypothesis, we
+consider only the immediate context provided by the
+reader’s goals. According to the constructionist
+hypothesis, we should adopt maximalist inferences
+when the reader’s goals are clear and consistent with
+the minimal required knowledge. Constructionist inferences are drawn if the reader’s
+background knowledge is sufficient to construct a
+causal understanding of a situation. It is assumed
+that the minimalist hypothesis is false because
+minimalist inferences are drawn if the
+reader’s goals are unrealistic.
+
+Evidence
+
+Constructionist inferences are drawn if
+the following conditions are satisfied:
+(1) The text provides consistent (or causal)
+information.
+(2) The reader has access to some (but not all)
+of the necessary mental operators.
+(3) The necessary mental operators are
+in the reader’s environment (e.g., heuristic
+processing). Constructionist inferences are drawn
+when the construct validity of the inference is high
+and when it is low.
+Calder and Pleydell-Pearce (2000) presented
+sentences such as, “The burglar was
+neutral faced with the torch”, and, “The burglar
+was neutral faced with the molotov”, in a
+letter context. They then compared these
+sentences in a word context, suggesting that the
+context effects are felt even in the absence
+of the contextual information. The conclusion that the
+burglar was neutral faced with the torch was
+confirmed when the contextual information was
+sufficient to generate a single mental operator
+(e.g., “neutral faced with mOLT”).
+According to the minimalist hypothesis,
+“minimalist inferences are drawn if the
+context allows them to be drawn safely”.
+If readers were presented with the text in
+the standard context with all of the necessary
+magnitudes applied to it, they would have
+to construct several baserate inferences.
+According to the constructionist hypothesis,
+“minimalist inferences are drawn if
+the reader has a relatively simple comprehension
+task requiring the generation of intuitive
+answers to questions”. Constructionist inferences are drawn
+when the construction–integration model is
+compatible with the comprehension–integration model. Gardner and Pleydell-
+(2002) argued that the minimalist hypothesis is
+compatible with the construction–integration
+model because it predicts that readers will often
+construct several baserate inferences during
+the construction of a text.
+
+Evidence
+Support for the minimalist hypothesis was reported
+by Gardner and Pleydell-Pearce (2002). They
+asked readers to read sentences such as the
+following:
+The ranger saw an eagle in the sky”, and
+the following:
+The rangers saw an eagle in the sky
+(“They saw an eagle in the sky”). The readers
+rapidly generated several baserate inferences,
+which is as predicted by the minimalist hypothesis.
+According to the minimalist hypothesis, readers
+should generate several baserate inferences during
+the construction of a text. Constructionist
+inferences were drawn rapidly and
+almost without delay, which is also predicted
+from the minimalist hypothesis.
+It is important to note that Gardner and
+Pleydell-Pearce (2002) assumed that the
+standard construction–integration model would
+lead readers to generate several baserate
+inferences during the construction of a text.
+In fact, however, the construction–integration model has led readers to generate several baserate
+inferences during the construction of text
+(e.g., a discussion of building blocks in Berndt and
+Mann (2001); a discussion of consciousness in Chiappe (1987); and a discussion of language and thought in Moors and
+Moors (2006).
+
+Evaluation
+The construction–integration model has been very
+influential. It was originally put forward as a
+new way of understanding the processes involved
+in comprehending and remembering story information.
+The strength of this approach lies in the assumption that story
+comprehension involves a series of stages moving
+from the semantic level to the conceptual
+level, and that these stages are separable. As
+predicted, the development of comprehension skills
+can greatly enhance our chances of grasping
+the meaning of stories perfectly.
+What are the limitations of the construction–
+integration model? First, it has focused
+much of its attention on the semantic level,
+whereas much of the processing of story information
+lacks conceptual integration.
+====================
+The second
+point is that the processes involved in
+comprehension are much more complicated
+than was previously believed. More
+direct evidence of the involvement of
+procedural and storage systems in
+comprehension can be obtained by
+considering patients with very impaired
+conceptual priming. This approach involves
+initiating processes at the semantic level,
+whereas indirect evidence of the involvement of
+procedural and storage systems can be
+obtained by examining patients with impaired
+conceptual priming but not by retrieving semantic
+priming. De Corte et al. (2008) reported
+the case of CWS, a 58-year-old man who had
+had a stroke. He had problems with the
+meaning of many situations, including deciding
+whether “yes” means “yes” in formal logic,
+“no” means “no” in formal logic”, and so on.
+However, he showed some ability to respond
+to formal logic questions. For example, he could
+calculate the number “seven plus eight” (“seven plus
+eight”) in about 42 seconds on the standard
+problems of the Russells–Whittenberg type
+problem, and only took 41 seconds on
+the more difficult Russells–Whittenberg type
+problem.
+How can we improve our understanding of
+comprehension problems? The Russells (1988)
+and Whittneys (2004) theories both claim
+that we use a grapheme–phoneme
+rule system to identify the correct
+sentences. However, there is some evidence
+(e.g., Coltheart et al., 2004) suggesting that
+the rules we use may not be as simple as
+they seem. For example, Coltheart et al.
+(2004) found that naïve participants
+performed poorly on tasks involving
+sentences such as, “The horse raced past the
+barn fell”, and “The horse raced past the
+barn fell”. These sentences involved use of
+a grapheme–phoneme rule system, but the
+sentences were spoken very slowly (i.e.,
+0.8 seconds per word) and used very
+little filler material (i.e., there was
+“The horse raced past the barn fell”). The
+rapid-spoken version of the Russells–Whittneys
+theory is more in the area of syntactic
+processing than literal-expression theories.
+
+3600
+
+3601
+
+3602
+
+3603
+
+3594
+
+3595
+
+3494
+
+3495
+
+3594
+
+3594
+
+3594
+
+3592
+
+3600
+
+3601
+
+3603
+
+3594
+
+3592
+
+3600
+
+3601
+
+3603
+
+3592
+
+3600
+
+3799
+
+3799
+
+3800
+
+3801
+
+3699
+
+3792
+
+3699
+
+3793
+
+3794
+
+3795
+
+3792
+
+3794
+
+3792
+
+3793
+
+3792
+
+3794
+
+3793
+
+3794
+
+3792
+
+3794
+
+3793
+
+3792
+
+3794
+
+3793
+
+3792
+
+3794
+
+3793
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3792
+
+3794
+
+3794
+
+====================
