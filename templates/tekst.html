@@ -27,7 +27,9 @@
             </div>
             <div class="wrapper">
                 <section id="tekst">
-                    
+                    {% block content %}
+                    {{ output|safe }}
+                    {% endblock %}
                 </section>
                 <section id="guzik">
                     <a href="/">
