@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def strona():
     return render_template('strona.html')
-@app.route('/tekst.html')
+@app.route('/tekst', methods = ['POST', 'GET'])
 def tekst():
     if request.method == "POST":
         number = random.randint(1, 30)
