@@ -1,0 +1,77 @@
+body
+{
+    margin: 0;
+    background-color: #ffffff;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+}
+
+#container
+{
+    width: 1400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.wrapper
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 700px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo
+{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+
+}
+
+
+#stopka
+{
+    background-color: teal;
+    color: white;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#guzik
+{
+    background-color: white;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hello
+{
+    background-color: white;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+
+#tekst
+{
+    background-color: white;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
