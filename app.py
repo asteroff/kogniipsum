@@ -12,7 +12,7 @@ def tekst():
         number = random.randint(1, 30)
         temp = open("gpt2_generated/gpt2_gentext%s.txt" % number, 'r')
         l = ' '.join(map(str, temp))
-    return render_template('tekst.html', output=l)
+        return render_template('tekst.html', output=l)
 
 if __name__ == '  strona  ':
     app.run(Debug=True)
